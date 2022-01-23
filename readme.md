@@ -1,0 +1,131 @@
+# 1337-Student-Ressources
+
+Hello guys, This is some resources that I found very useful. <br>
+Feel free to check them out and give it a :star: if you like it. <br>
+Please consider contributing to the list with a pull request.
+
+---
+
+## Summary :
+
+- <a href="#coding">Coding</a>
+- <a href="#Webdev">Webdev</a>
+- <a href="#Robotics">Robotics</a>
+- <a href="#Security">Security</a>
+- <a href="#News & Articles">News & Articles</a>
+- <a href="#Useful Github Repos">Useful Github Repos</a>
+- <a href="#Fun Stuff">Fun Stuff</a>
+
+---
+
+## Coding :
+
+### Miscellaneous :
+
+- Computer Architecture :
+  - [Computer Science From The Bottom Up](https://www.bottomupcs.com/?fbclid=IwAR1Jn989dGlZ1e6J3Fer3LA8USDpGKV29b5s1kxW5K_mbNojbqazgdAyJPI)
+  - [Carnegie Mellon Computer Architecture](https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
+
+- C
+  - [LearnC.org](https://www.learn-c.org/)
+  - [Pointers : ADEI ENSIAS](https://www.youtube.com/watch?v=f8bstCNctdU&list=PLSWu0SUaMe5gppCgnnZHJh8zIGVUxyWY3)
+  - [CS50 : Memory](https://www.youtube.com/watch?v=NKTfNv2T0FE)
+  - [Karim Baina Prof ENSIAS : Techniques de programmation](https://www.youtube.com/watch?v=zsgMH2kVI-4&list=PLjYgQBp0uQYeXmHPqLt5TIMKYHDxiZOfR)
+  - [multiparadigme.org](http://www.multiparadigme.org/)
+  - [Stanford : Signals / Processes / Threads and multithreading / mutex](https://www.youtube.com/watch?v=_LFGjZ0Sc6I&list=PLai-xIlqf4JmTNR9aPCwIAOySs1GOm8sQ)
+  - Youtube Vids & Channels
+    - [Learn Makefiles 1](https://www.youtube.com/watch?v=_r7i5X0rXJk)
+    - [Learn Makefiles 2](https://www.youtube.com/watch?v=GExnnTaBELk)
+
+- Java/JEE
+  - [LearnJAVA](https://www.learnjavaonline.org/)
+- HTML/CSS
+  - [LearnHTML.org](https://www.learn-html.org/)
+- PHP
+  - [LearnPHP.org](https://www.learn-php.org/)
+  - [Awesome PHP](https://github.com/ziadoz/awesome-php#readme)
+- Symphony
+  - [Awesome Symphony](https://github.com/sitepoint-editors/awesome-symfony)
+  - [Symphony Certification Guide](https://github.com/raulconti/symfony-3-certification-guide)
+- JavaScript
+  - [LearnC.org](https://www.learn-c.org/)
+- Databases
+  - [LearnSQL](https://www.learnsqlonline.org/)
+
+---
+
+### WebDev :
+
+- Youtube Channels
+  - [FreeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
+  - [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)
+  - [James Q Quick](https://www.youtube.com/c/JamesQQuick)
+  - [Edureka](https://www.youtube.com/c/edurekaIN)
+  - [DevEd](https://www.youtube.com/c/DevEd)
+  - [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
+  - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+  - [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
+
+---
+
+### Robotics :
+
+- Youtube Channels
+  - [Oujador](https://www.youtube.com/c/oujadortube)
+
+---
+
+### Security :
+
+- Youtube Channels
+  - [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)
+  - [Stanford CyberSecurity](https://www.youtube.com/watch?v=J2txSFdQWIY&list=PLoROMvodv4rPIdnIoOMmjjxZRqM1pPkLT)
+
+---
+
+### Git/Github :
+
+- Youtube Vids & Channels
+  - [Git/Github](https://www.youtube.com/watch?v=3fUbBnN_H2c) : This Video is my special recommendation to learn git
+  - [Al fihriya Academy](https://www.youtube.com/watch?v=b5J8sBlHd1Y&list=PLXH8lluXIxcwnVQhwVJlbuwhkwc0E8CBW)
+- Resources
+  - [Github Official Website](https://git-scm.com/)
+  - [Git Cheat Sheet](https://ohshitgit.com/)
+
+---
+
+### Linux :
+
+- Lessons & Articles
+  - [ExplainShell](https://explainshell.com/) : A tool that provides good explanation to every Linux command
+  - [Bash Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
+  - [LearnShell.org](https://www.learnshell.org/) : Good website to learn shell scripting with exercises
+
+---
+
+### News & Articles :
+
+- [The Overflow Blog](https://stackoverflow.blog/)
+- [MIT Technology Review](https://www.technologyreview.com/magazines/the-computing-issue/)
+
+---
+
+### Useful Github Repos :
+
+- [Tech Resources](https://github.com/andou/tech-resources)
+
+---
+
+### Fun Stuff :
+
+- Spotify Music Channels
+  - [AngerFist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS?si=lU3KgaeKQqKNHyj64LhXPQ)
+  - [Piano](https://open.spotify.com/playlist/2q7U9Dh7buTnrwHEWxcxiq?si=292bf27d43764565)
+- Youtube Music Vids & Channels
+  - [My Playlist](https://www.youtube.com/watch?v=jo7f059kJ-A&list=PLc11zrc3DKEnLmW4jYv84KNC3Y9wk5oh-&index=1)
+  - [Coding](https://www.youtube.com/watch?v=M5QY2_8704o)
+    -Podcasts
+  - [Geeks BlaBla](https://web.facebook.com/geeksblabla/)
+  - [Al fihriya academy](https://www.youtube.com/watch?v=_T7wMjirnEk&list=PLXH8lluXIxcyUUo3NEUnY66uWEOajHE5S)
+
+---
