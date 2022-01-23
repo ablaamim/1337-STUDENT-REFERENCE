@@ -1,7 +1,7 @@
 ---
 
 <h1 align=center>
-	<b> :top: 1337-Student-Reference</b>
+	<b>1337-Student-Reference</b>
 
 ---
 
