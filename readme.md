@@ -110,14 +110,20 @@
 
  - [Assembly 6800 ENSIAS COURSE (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Ass%20Cours%202018.pdf)
 
+
 - :coffee: Java/JEE
   - [Paradigme Objet ENSIAS course Lecture01(FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/M.2.5.1_Lec%2001_Du%20proc%C3%A9dural%20%C3%A0%20l%E2%80%99Objet.pdf)
   - [Paradigme Objet ENSIAS course Lecture02(FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/M.2.5.1_Lec%2002_Concepts%20objet.pdf)
   - [Paradigme Objet ENSIAS course Lecture03(FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/M.2.5.1_Lec%2003_Cr%C3%A9ation%20d_objets%20Java.pdf)
   - [Paradigme Objet ENSIAS course Lecture04(FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/M.2.5.1_Lec%2004_Cr%C3%A9ation%20d_objets%20Java.pdf)
   - [LearnJAVA](https://www.learnjavaonline.org/)
-  - [Toufik Zniber : Java (FR)](https://www.youtube.com/watch?v=8WY3eG68O4U&list=PLVizoH4F7kiJY8RRe0hpbBT4_AhyVgPbM)
-  - [Jacques Olivier Lapeyre : Programmation Java (FR)](http://www.multiparadigme.org/)
+  - [Mr. Toufik Zniber : Java (FR)](https://www.youtube.com/watch?v=8WY3eG68O4U&list=PLVizoH4F7kiJY8RRe0hpbBT4_AhyVgPbM)
+  - [Mr. Jacques Olivier Lapeyre : Programmation Java (FR)](http://www.multiparadigme.org/)
+-  Graph Theory
+  - [Ensias Course chapter 00]() Mr. MOHAMMED ABDOU JANATI IDRISSI academical course.
+  - [Ensias Course chapter 01]()
+  - [Ensias Course chapter 02]()
+  - [Ensias Course chapter 03]()
 -  HTML/CSS
   - [LearnHTML.org](https://www.learn-html.org/)
 -  PHP
