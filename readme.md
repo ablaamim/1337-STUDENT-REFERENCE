@@ -36,7 +36,7 @@
 - <a href="#Webdev">Webdev</a>
 - <a href="#Robotics">Robotics</a>
 - <a href="#Security">Security</a>
-- <a href="#News & Articles">News & Articles</a>
+- <a href="#News and Articles">News and Articles</a>
 - <a href="#Linux">Linux</a>
 - <a href="#Useful Github Repos">Useful Github Repos</a>
 - <a href="#Fun Stuff">Fun Stuff</a>
@@ -46,6 +46,10 @@
 ## Coding 
 
 > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
+> First, solve the problem. Then, write the code.” – John Johnson
+> “Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.” – Dan Salomon
+> “Fix the cause, not the symptom.” – Steve Maguire
+> “Simplicity is the soul of efficiency.” – Austin Freeman
 
 </p>
 <p align="center">
@@ -56,15 +60,21 @@
 
 ### Miscellaneous :
 
+> Knowing what's inside and how it works will help you design, develop, and implement applications better, faster, cheaper, more efficient, and easier to use because you will be able to make informed decisions instead of guestimating and assuming.
+
 - Computer Architecture :
   - [Computer Science From The Bottom Up](https://www.bottomupcs.com/?fbclid=IwAR1Jn989dGlZ1e6J3Fer3LA8USDpGKV29b5s1kxW5K_mbNojbqazgdAyJPI)
   - [Carnegie Mellon Computer Architecture](https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
+
+> If an individual wants to grow and solve projects for a team then they should be proficient in algorithms. As a developer, your everyday work is to solve problems and algorithms solve problems very efficiently. Practicing algorithms will increase you skill and your visibility at work.
 
 - Algorithms and data structures :
 
   - [Algo visualizer](https://algorithm-visualizer.org/)
   - [MIT Open Course](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
   - [CS50 Data Structures](https://www.youtube.com/watch?v=2T-A_GFuoTo)
+
+> “Unlike most computer languages, C allows the programmer to write directly to memory. Key constructs in C such as structs, pointers and arrays are designed to structure, and manipulate memory in an efficient, machine-independent fashion.”
 
 - C
   - [LearnC.org](https://www.learn-c.org/)
@@ -73,14 +83,15 @@
   - [Karim Baina Prof ENSIAS : Techniques de programmation](https://www.youtube.com/watch?v=zsgMH2kVI-4&list=PLjYgQBp0uQYeXmHPqLt5TIMKYHDxiZOfR)
   - [Jacques Olivier Lapeyre : Programmation en C inclut Gamedev SDL](http://www.multiparadigme.org/)
   - [Stanford : Signals / Processes / Threads and multithreading / Mutex](https://www.youtube.com/watch?v=_LFGjZ0Sc6I&list=PLai-xIlqf4JmTNR9aPCwIAOySs1GOm8sQ)
+  - [Unix Processes](https://www.youtube.com/watch?v=cex9XrZCU14&list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)
+  - [Unix Threads](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)
   - Makefile :
-    - [Learn Makefiles 1](https://www.youtube.com/watch?v=_r7i5X0rXJk)
-    - [Learn Makefiles 2](https://www.youtube.com/watch?v=GExnnTaBELk)
+    - [Learn Makefiles](https://www.youtube.com/watch?v=GExnnTaBELk)
 
 - Java/JEE
   - [LearnJAVA](https://www.learnjavaonline.org/)
   - [Toufik Zniber : Java](https://www.youtube.com/watch?v=8WY3eG68O4U&list=PLVizoH4F7kiJY8RRe0hpbBT4_AhyVgPbM)
-  - [Jacques Olivier Lapeyre](http://www.multiparadigme.org/)
+  - [Jacques Olivier Lapeyre : Programmation Java](http://www.multiparadigme.org/)
 - HTML/CSS
   - [LearnHTML.org](https://www.learn-html.org/)
 - PHP
@@ -97,6 +108,8 @@
 ---
 
 ## WebDev 
+
+> Web development gives you the opportunity to express yourself creatively on the internet. ... Fortunately, the high demand, easy-to-learn, fun-to-experience life of a web developer is always a great choice for someone ready to have an exciting career in code.
 
 </p>
 <p align="center">
@@ -119,6 +132,8 @@
 
 ## Robotics 
 
+> Robotics allows children to work on their life skills along with social skills. These skills help them to stand out of the crowd in front of their future employers. ... It is a need of the hour to prepare our children for the changes of tomorrow in all aspects of life whether it is personal, educational or professional.
+
 </p>
 <p align="center">
 <img src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4mq2XAl-hbQDfittmCbnYuROq8Fs2ckcpXlCJs9-hM1b" width="500">
@@ -129,11 +144,12 @@
 - Youtube Channels
   - [Oujador](https://www.youtube.com/c/oujadortube)
   - [NorthWestern Robotics](https://www.youtube.com/watch?v=jVu-Hijns70&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx)
+  - [Arduino Projects & Robotics](https://www.youtube.com/watch?v=pwwVOpXrazs&list=PL4g1oAdmuCfqmYvURLzVFkMMUI7839biN)
+  
 
 ---
 
 ## Security 
-
 
 </p>
 <p align="center">
@@ -184,7 +200,7 @@
 
 ---
 
-## News & Articles 
+## News and Articles 
 
 </p>
 <p align="center">
