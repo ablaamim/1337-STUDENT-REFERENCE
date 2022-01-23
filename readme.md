@@ -1,7 +1,7 @@
 ---
 
 <h1 align=center>
-	<b>1337-Student-Reference</b>
+	<b> :top: 1337-Student-Reference</b>
 
 ---
 
@@ -46,9 +46,13 @@
 ## Coding 
 
 > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
+
 > First, solve the problem. Then, write the code.” – John Johnson
+
 > “Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.” – Dan Salomon
+
 > “Fix the cause, not the symptom.” – Steve Maguire
+
 > “Simplicity is the soul of efficiency.” – Austin Freeman
 
 </p>
@@ -60,9 +64,11 @@
 
 ### Miscellaneous :
 
+---
+
 > Knowing what's inside and how it works will help you design, develop, and implement applications better, faster, cheaper, more efficient, and easier to use because you will be able to make informed decisions instead of guestimating and assuming.
 
-- Computer Architecture :
+- :computer: Computer Architecture :
   - [Computer Science From The Bottom Up](https://www.bottomupcs.com/?fbclid=IwAR1Jn989dGlZ1e6J3Fer3LA8USDpGKV29b5s1kxW5K_mbNojbqazgdAyJPI)
   - [Carnegie Mellon Computer Architecture](https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
   - [Computer Architecture part 1 (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Poly_Archi_1.pdf)
@@ -71,7 +77,7 @@
 
 > If an individual wants to grow and solve projects for a team then they should be proficient in algorithms. As a developer, your everyday work is to solve problems and algorithms solve problems very efficiently. Practicing algorithms will increase you skill and your visibility at work.
 
-- Algorithms and data structures :
+- :black_nib: Algorithms and data structures :
 
   - [Algo visualizer](https://algorithm-visualizer.org/)
   - [MIT Open Course](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
@@ -82,7 +88,7 @@
 
 > “Unlike most computer languages, C allows the programmer to write directly to memory. Key constructs in C such as structs, pointers and arrays are designed to structure, and manipulate memory in an efficient, machine-independent fashion.”
 
-- C
+- :art: C
   - [LearnC.org](https://www.learn-c.org/)
   - [Pointers : ADEI ENSIAS](https://www.youtube.com/watch?v=f8bstCNctdU&list=PLSWu0SUaMe5gppCgnnZHJh8zIGVUxyWY3)
   - [CS50 : Memory](https://www.youtube.com/watch?v=NKTfNv2T0FE)
@@ -94,11 +100,11 @@
   - Makefile :
     - [Learn Makefiles](https://www.youtube.com/watch?v=GExnnTaBELk)
 
-- Assembly
+- :game_die: Assembly
 
  - [Assembly 6800 ENSIAS COURSE (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Ass%20Cours%202018.pdf)
 
-- Java/JEE
+- :coffee: Java/JEE
   - [Paradigmr Objet ENSIAS course Lecture01(FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/M.2.5.1_Lec%2001_Du%20proc%C3%A9dural%20%C3%A0%20l%E2%80%99Objet.pdf)
   - [Paradigmr Objet ENSIAS course Lecture02(FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/M.2.5.1_Lec%2002_Concepts%20objet.pdf)
   - [Paradigmr Objet ENSIAS course Lecture03(FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/M.2.5.1_Lec%2003_Cr%C3%A9ation%20d_objets%20Java.pdf)
@@ -106,12 +112,12 @@
   - [LearnJAVA](https://www.learnjavaonline.org/)
   - [Toufik Zniber : Java (FR)](https://www.youtube.com/watch?v=8WY3eG68O4U&list=PLVizoH4F7kiJY8RRe0hpbBT4_AhyVgPbM)
   - [Jacques Olivier Lapeyre : Programmation Java](http://www.multiparadigme.org/)
-- HTML/CSS
+-  HTML/CSS
   - [LearnHTML.org](https://www.learn-html.org/)
-- PHP
+-  PHP
   - [LearnPHP.org](https://www.learn-php.org/)
   - [Awesome PHP](https://github.com/ziadoz/awesome-php#readme)
-- Symphony
+-  Symphony
   - [Awesome Symphony](https://github.com/sitepoint-editors/awesome-symfony)
   - [Symphony Certification Guide](https://github.com/raulconti/symfony-3-certification-guide)
 - JavaScript
