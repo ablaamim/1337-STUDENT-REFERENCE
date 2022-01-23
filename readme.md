@@ -56,7 +56,7 @@ Please consider contributing to the list with a pull request.
   - [Awesome Symphony](https://github.com/sitepoint-editors/awesome-symfony)
   - [Symphony Certification Guide](https://github.com/raulconti/symfony-3-certification-guide)
 - JavaScript
-  - [LearnC.org](https://www.learn-c.org/)
+  - [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 - Databases
   - [LearnSQL](https://www.learnsqlonline.org/)
 
@@ -102,7 +102,7 @@ Please consider contributing to the list with a pull request.
 
 ---
 
-### Linux :
+### Linux 
 
 - Lessons & Articles
   - [ExplainShell](https://explainshell.com/) : A tool that provides good explanation to every Linux command
