@@ -88,7 +88,7 @@
   - [Algo visualizer](https://algorithm-visualizer.org/)
   - [MIT Open Course](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
   - [CS50 Data Structures](https://www.youtube.com/watch?v=2T-A_GFuoTo)
-  - [Algorithms part 1 ENSIAS course (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Algo%20Cours%202018%20Partie1%20Ettalbi.pdf)
+  - [Algorithms part 1 ENSIAS course (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Algo%20Cours%202018%20Partie1%20Ettalbi.pdf) : M. AHMED ETTALBI is an Ensias professor, it is always okay to follow academical courses, as well as they only concern abstraction and theory (lack of practice).
   - [Algorithms part 2 ENSIAS course (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Algo%20Cours%202018%20Partie2%20Ettalbi.pdf)
   
 
@@ -96,10 +96,10 @@
 
 - :art: C
   - [LearnC.org](https://www.learn-c.org/)
-  - [Pointers : ADEI ENSIAS](https://www.youtube.com/watch?v=f8bstCNctdU&list=PLSWu0SUaMe5gppCgnnZHJh8zIGVUxyWY3)
+  - [Pointers : ADEI ENSIAS](https://www.youtube.com/watch?v=f8bstCNctdU&list=PLSWu0SUaMe5gppCgnnZHJh8zIGVUxyWY3) : E-lasse9 is an ensias's students initiative, it aims to simplify programming concepts.
   - [CS50 : Memory](https://www.youtube.com/watch?v=NKTfNv2T0FE)
-  - [Karim Baina Prof ENSIAS : Techniques de programmation (FR)](https://www.youtube.com/watch?v=zsgMH2kVI-4&list=PLjYgQBp0uQYeXmHPqLt5TIMKYHDxiZOfR)
-  - [Jacques Olivier Lapeyre : Programmation en C inclut Gamedev SDL (FR)](http://www.multiparadigme.org/)
+  - [Mr. Karim Baina Prof ENSIAS : Techniques de programmation (FR)](https://www.youtube.com/watch?v=zsgMH2kVI-4&list=PLjYgQBp0uQYeXmHPqLt5TIMKYHDxiZOfR) : I highly recommend this playlist, it is purely theorical and it covers most of the basics.
+  - [Mr. Jacques Olivier Lapeyre : Programmation en C inclut Gamedev SDL (FR)](http://www.multiparadigme.org/) : This is my actual mentor.
   - [Stanford : Signals / Processes / Threads and multithreading / Mutex](https://www.youtube.com/watch?v=_LFGjZ0Sc6I&list=PLai-xIlqf4JmTNR9aPCwIAOySs1GOm8sQ)
   - [Unix Processes](https://www.youtube.com/watch?v=cex9XrZCU14&list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)
   - [Unix Threads](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)
