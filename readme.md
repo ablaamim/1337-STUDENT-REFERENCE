@@ -26,6 +26,12 @@ Please consider contributing to the list with a pull request.
   - [Computer Science From The Bottom Up](https://www.bottomupcs.com/?fbclid=IwAR1Jn989dGlZ1e6J3Fer3LA8USDpGKV29b5s1kxW5K_mbNojbqazgdAyJPI)
   - [Carnegie Mellon Computer Architecture](https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
 
+- Algorithms and data structures :
+
+  - [Algo visualizer](https://algorithm-visualizer.org/)
+  - [MIT Open Course](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+  - [CS50 Data Structures](https://www.youtube.com/watch?v=2T-A_GFuoTo)
+
 - C
   - [LearnC.org](https://www.learn-c.org/)
   - [Pointers : ADEI ENSIAS](https://www.youtube.com/watch?v=f8bstCNctdU&list=PLSWu0SUaMe5gppCgnnZHJh8zIGVUxyWY3)
@@ -70,14 +76,14 @@ Please consider contributing to the list with a pull request.
 
 ---
 
-## Robotics :
+## Robotics 
 
 - Youtube Channels
   - [Oujador](https://www.youtube.com/c/oujadortube)
 
 ---
 
-## Security :
+## Security 
 
 - Youtube Channels
   - [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)
@@ -85,7 +91,7 @@ Please consider contributing to the list with a pull request.
 
 ---
 
-## Git/Github :
+## Git/Github 
 
 - Youtube Vids & Channels
   - [Git/Github](https://www.youtube.com/watch?v=3fUbBnN_H2c) : This Video is my special recommendation to learn git
@@ -105,20 +111,21 @@ Please consider contributing to the list with a pull request.
 
 ---
 
-## News & Articles :
+## News & Articles 
 
 - [The Overflow Blog](https://stackoverflow.blog/)
 - [MIT Technology Review](https://www.technologyreview.com/magazines/the-computing-issue/)
 
 ---
 
-## Useful Github Repos :
+## Useful Github Repos 
 
 - [Tech Resources](https://github.com/andou/tech-resources)
+- [42 CheatSheet](https://github.com/agavrel/42_CheatSheet)
 
 ---
 
-## Fun Stuff :
+## Fun Stuff 
 
 - Spotify Music Channels
   - [AngerFist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS?si=lU3KgaeKQqKNHyj64LhXPQ)
