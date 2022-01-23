@@ -121,7 +121,8 @@
 - :game_die: Assembly
 
  - [Assembly 68000 ENSIAS COURSE (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Ass%20Cours%202018.pdf)
-
+ - [Nasm Assembly](https://www.tutorialspoint.com/assembly_programming/index.htm)
+ - [RipTutorial](https://riptutorial.com/assembly)
 
 - :coffee: Java/JEE
   - [Paradigme Objet ENSIAS course Lecture01(FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/M.2.5.1_Lec%2001_Du%20proc%C3%A9dural%20%C3%A0%20l%E2%80%99Objet.pdf)
