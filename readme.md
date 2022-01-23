@@ -202,7 +202,7 @@
 
 </p>
 <p align="center">
-<img src="https://c.tenor.com/AUljvJMds5EAAAAd/programming.gif" width="500">
+<img src="https://c.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="500">
 <p/>
 
 ---
@@ -216,7 +216,7 @@
 
 </p>
 <p align="center">
-<img src="https://c.tenor.com/sghSDohU-f0AAAAd/happy-programmer-happy-coder.gif" width="500">
+<img src="https://c.tenor.com/qUANV6neWiwAAAAd/singing-mic.gif" width="500">
 <p/>
 
 
