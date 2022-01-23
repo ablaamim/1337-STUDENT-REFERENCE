@@ -30,7 +30,7 @@
 
 ---
 
-## Summary :
+## :cloud: Summary :
 
 - <a href="#coding">Coding</a>
 - <a href="#Webdev">Webdev</a>
@@ -42,6 +42,8 @@
 - <a href="#Fun Stuff">Fun Stuff</a>
 
 ---
+
+:construction: 
 
 ## Coding 
 
