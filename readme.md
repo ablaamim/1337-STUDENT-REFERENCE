@@ -112,6 +112,7 @@
   - [Stanford : Signals / Processes / Threads and multithreading / Mutex](https://www.youtube.com/watch?v=_LFGjZ0Sc6I&list=PLai-xIlqf4JmTNR9aPCwIAOySs1GOm8sQ)
   - [Unix Processes](https://www.youtube.com/watch?v=cex9XrZCU14&list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)
   - [Unix Threads](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)
+  - [Dark Corners of C : For the fun of it](https://docs.google.com/presentation/d/1h49gY3TSiayLMXYmRMaAEMl05FaJ-Z6jDOWOz3EsqqQ/edit#slide=id.gec7eb408_3500) : If you feel bored, check this out !
   - Makefile :
     - [Learn Makefiles](https://www.youtube.com/watch?v=GExnnTaBELk)
 
