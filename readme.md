@@ -109,6 +109,7 @@
   - [CS50 : Memory](https://www.youtube.com/watch?v=NKTfNv2T0FE)
   - [Mr. Karim Baina Prof ENSIAS : Techniques de programmation (FR)](https://www.youtube.com/watch?v=zsgMH2kVI-4&list=PLjYgQBp0uQYeXmHPqLt5TIMKYHDxiZOfR) : I highly recommend this playlist, it is purely theorical and it covers most of the basics.
   - [Mr. Jacques Olivier Lapeyre : Programmation en C inclut Gamedev SDL (FR)](http://www.multiparadigme.org/) : This is my actual mentor.
+  - [C-math](https://www.javatpoint.com/c-math) : The functions defined in <math.h> header file.
   - [Stanford : Signals / Processes / Threads and multithreading / Mutex](https://www.youtube.com/watch?v=_LFGjZ0Sc6I&list=PLai-xIlqf4JmTNR9aPCwIAOySs1GOm8sQ)
   - [Unix Processes](https://www.youtube.com/watch?v=cex9XrZCU14&list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)
   - [Unix Threads](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)
