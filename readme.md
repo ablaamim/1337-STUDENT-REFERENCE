@@ -65,6 +65,9 @@
 - Computer Architecture :
   - [Computer Science From The Bottom Up](https://www.bottomupcs.com/?fbclid=IwAR1Jn989dGlZ1e6J3Fer3LA8USDpGKV29b5s1kxW5K_mbNojbqazgdAyJPI)
   - [Carnegie Mellon Computer Architecture](https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
+  - [Computer Architecture part 1 (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Poly_Archi_1.pdf)
+  - [Computer Architecture part 2 (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Poly_Archi_2.pdf)
+
 
 > If an individual wants to grow and solve projects for a team then they should be proficient in algorithms. As a developer, your everyday work is to solve problems and algorithms solve problems very efficiently. Practicing algorithms will increase you skill and your visibility at work.
 
@@ -73,6 +76,9 @@
   - [Algo visualizer](https://algorithm-visualizer.org/)
   - [MIT Open Course](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
   - [CS50 Data Structures](https://www.youtube.com/watch?v=2T-A_GFuoTo)
+  - [Algorithms part 1 ENSIAS course (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Algo%20Cours%202018%20Partie1%20Ettalbi.pdf)
+  - [Algorithms part 2 ENSIAS course (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Algo%20Cours%202018%20Partie2%20Ettalbi.pdf)
+  
 
 > “Unlike most computer languages, C allows the programmer to write directly to memory. Key constructs in C such as structs, pointers and arrays are designed to structure, and manipulate memory in an efficient, machine-independent fashion.”
 
@@ -80,17 +86,25 @@
   - [LearnC.org](https://www.learn-c.org/)
   - [Pointers : ADEI ENSIAS](https://www.youtube.com/watch?v=f8bstCNctdU&list=PLSWu0SUaMe5gppCgnnZHJh8zIGVUxyWY3)
   - [CS50 : Memory](https://www.youtube.com/watch?v=NKTfNv2T0FE)
-  - [Karim Baina Prof ENSIAS : Techniques de programmation](https://www.youtube.com/watch?v=zsgMH2kVI-4&list=PLjYgQBp0uQYeXmHPqLt5TIMKYHDxiZOfR)
-  - [Jacques Olivier Lapeyre : Programmation en C inclut Gamedev SDL](http://www.multiparadigme.org/)
+  - [Karim Baina Prof ENSIAS : Techniques de programmation (FR)](https://www.youtube.com/watch?v=zsgMH2kVI-4&list=PLjYgQBp0uQYeXmHPqLt5TIMKYHDxiZOfR)
+  - [Jacques Olivier Lapeyre : Programmation en C inclut Gamedev SDL (FR)](http://www.multiparadigme.org/)
   - [Stanford : Signals / Processes / Threads and multithreading / Mutex](https://www.youtube.com/watch?v=_LFGjZ0Sc6I&list=PLai-xIlqf4JmTNR9aPCwIAOySs1GOm8sQ)
   - [Unix Processes](https://www.youtube.com/watch?v=cex9XrZCU14&list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)
   - [Unix Threads](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)
   - Makefile :
     - [Learn Makefiles](https://www.youtube.com/watch?v=GExnnTaBELk)
 
+- Assembly
+
+ - [Assembly 6800 ENSIAS COURSE (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Ass%20Cours%202018.pdf)
+
 - Java/JEE
+  - [Paradigmr Objet ENSIAS course Lecture01(FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/M.2.5.1_Lec%2001_Du%20proc%C3%A9dural%20%C3%A0%20l%E2%80%99Objet.pdf)
+  - [Paradigmr Objet ENSIAS course Lecture02(FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/M.2.5.1_Lec%2002_Concepts%20objet.pdf)
+  - [Paradigmr Objet ENSIAS course Lecture03(FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/M.2.5.1_Lec%2003_Cr%C3%A9ation%20d_objets%20Java.pdf)
+  - [Paradigmr Objet ENSIAS course Lecture04(FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/M.2.5.1_Lec%2004_Cr%C3%A9ation%20d_objets%20Java.pdf)
   - [LearnJAVA](https://www.learnjavaonline.org/)
-  - [Toufik Zniber : Java](https://www.youtube.com/watch?v=8WY3eG68O4U&list=PLVizoH4F7kiJY8RRe0hpbBT4_AhyVgPbM)
+  - [Toufik Zniber : Java (FR)](https://www.youtube.com/watch?v=8WY3eG68O4U&list=PLVizoH4F7kiJY8RRe0hpbBT4_AhyVgPbM)
   - [Jacques Olivier Lapeyre : Programmation Java](http://www.multiparadigme.org/)
 - HTML/CSS
   - [LearnHTML.org](https://www.learn-html.org/)
@@ -101,7 +115,7 @@
   - [Awesome Symphony](https://github.com/sitepoint-editors/awesome-symfony)
   - [Symphony Certification Guide](https://github.com/raulconti/symfony-3-certification-guide)
 - JavaScript
-  - [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+  - [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) 
 - Databases
   - [LearnSQL](https://www.learnsqlonline.org/)
 
@@ -164,7 +178,7 @@
 
 ---
 
-## Git/Github 
+## :octocat: Git/Github 
 
 </p>
 <p align="center">
