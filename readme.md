@@ -42,6 +42,15 @@ Please consider contributing to the list with a pull request.
 
 ## Coding 
 
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
+
+</p>
+<p align="center">
+<img src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4hksVs3MIJxHadG7A7FI_oTy9pL-UqrC-cycJtDkuZzC" width="500">
+<p/>
+
+---
+
 ### Miscellaneous :
 
 - Computer Architecture :
@@ -59,8 +68,8 @@ Please consider contributing to the list with a pull request.
   - [Pointers : ADEI ENSIAS](https://www.youtube.com/watch?v=f8bstCNctdU&list=PLSWu0SUaMe5gppCgnnZHJh8zIGVUxyWY3)
   - [CS50 : Memory](https://www.youtube.com/watch?v=NKTfNv2T0FE)
   - [Karim Baina Prof ENSIAS : Techniques de programmation](https://www.youtube.com/watch?v=zsgMH2kVI-4&list=PLjYgQBp0uQYeXmHPqLt5TIMKYHDxiZOfR)
-  - [Jacques Olivier Lapeyre](http://www.multiparadigme.org/)
-  - [Stanford : Signals / Processes / Threads and multithreading / mutex](https://www.youtube.com/watch?v=_LFGjZ0Sc6I&list=PLai-xIlqf4JmTNR9aPCwIAOySs1GOm8sQ)
+  - [Jacques Olivier Lapeyre : Programmation en C inclut Gamedev SDL](http://www.multiparadigme.org/)
+  - [Stanford : Signals / Processes / Threads and multithreading / Mutex](https://www.youtube.com/watch?v=_LFGjZ0Sc6I&list=PLai-xIlqf4JmTNR9aPCwIAOySs1GOm8sQ)
   - Makefile :
     - [Learn Makefiles 1](https://www.youtube.com/watch?v=_r7i5X0rXJk)
     - [Learn Makefiles 2](https://www.youtube.com/watch?v=GExnnTaBELk)
@@ -86,6 +95,13 @@ Please consider contributing to the list with a pull request.
 
 ## WebDev 
 
+</p>
+<p align="center">
+<img src="https://i.giphy.com/3o7TKEwsOvJ0niDsBi.gif" width="500">
+<p/>
+
+---
+
 - Youtube Channels
   - [FreeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
   - [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)
@@ -100,12 +116,22 @@ Please consider contributing to the list with a pull request.
 
 ## Robotics 
 
+</p>
+<p align="center">
+<img src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4mq2XAl-hbQDfittmCbnYuROq8Fs2ckcpXlCJs9-hM1b" width="500">
+<p/>
+
+---
+
 - Youtube Channels
   - [Oujador](https://www.youtube.com/c/oujadortube)
+  - [NorthWestern Robotics](https://www.youtube.com/watch?v=jVu-Hijns70&list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx)
 
 ---
 
 ## Security 
+
+---
 
 - Youtube Channels
   - [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)
@@ -114,6 +140,8 @@ Please consider contributing to the list with a pull request.
 ---
 
 ## Git/Github 
+
+---
 
 - Youtube Vids & Channels
   - [Git/Github](https://www.youtube.com/watch?v=3fUbBnN_H2c) : This Video is my special recommendation to learn git
@@ -126,6 +154,8 @@ Please consider contributing to the list with a pull request.
 
 ### Linux 
 
+---
+
 - Lessons & Articles
   - [ExplainShell](https://explainshell.com/) : A tool that provides good explanation to every Linux command
   - [Bash Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
@@ -135,6 +165,8 @@ Please consider contributing to the list with a pull request.
 
 ## News & Articles 
 
+---
+
 - [The Overflow Blog](https://stackoverflow.blog/)
 - [MIT Technology Review](https://www.technologyreview.com/magazines/the-computing-issue/)
 
@@ -142,12 +174,16 @@ Please consider contributing to the list with a pull request.
 
 ## Useful Github Repos 
 
+---
+
 - [Tech Resources](https://github.com/andou/tech-resources)
 - [42 CheatSheet](https://github.com/agavrel/42_CheatSheet)
 
 ---
 
 ## Fun Stuff 
+
+---
 
 - Spotify Music Channels
   - [AngerFist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS?si=lU3KgaeKQqKNHyj64LhXPQ)
