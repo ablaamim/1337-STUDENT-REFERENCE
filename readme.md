@@ -176,7 +176,7 @@
 
 ## Robotics 
 
-> Robotics is an interdisciplinary branch of computer science and engineering.[1] Robotics involves design, construction, operation, and use of robots. The goal of robotics is to design machines that can help and assist humans. Robotics integrates fields of mechanical engineering, electrical engineering, information engineering, mechatronics, electronics, bioengineering, computer engineering, control engineering, software engineering, mathematics, etc.
+> Robotics is an interdisciplinary branch of computer science and engineering. Robotics involves design, construction, operation, and use of robots. The goal of robotics is to design machines that can help and assist humans. Robotics integrates fields of mechanical engineering, electrical engineering, information engineering, mechatronics, electronics, bioengineering, computer engineering, control engineering, software engineering, mathematics, etc.
 </p>
 <p align="center">
 <img src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4mq2XAl-hbQDfittmCbnYuROq8Fs2ckcpXlCJs9-hM1b" width="500">
