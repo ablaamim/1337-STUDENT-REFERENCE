@@ -17,7 +17,7 @@
 <p align=center>
 
 </p>
-<i>Hello guys, This is some resources that I found very useful, feel free to check them out and give it a :star: if you like it, please consider contributing to the list with a pull request.</i>
+<i>Hello guys, these are some resources that i find very useful, feel free to check them out and give it a :star: if you like it, please consider contributing to the list with a pull request.</i>
 
 </p>
 
@@ -46,6 +46,8 @@
 :construction: :construction: :construction:
 
 ## Coding 
+
+#### Some quotes : 
 
 > “Everybody should learn to program a computer, because it teaches you how to think.” - Steve Jobs, former CEO and creator of Apple
 
@@ -91,6 +93,8 @@
   - [Algorithms part 1 ENSIAS course (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Algo%20Cours%202018%20Partie1%20Ettalbi.pdf) : M. AHMED ETTALBI is an Ensias professor, it is always okay to follow academical courses, as well as they only concern abstraction and theory (lack of practice).
   - [Algorithms part 2 ENSIAS course (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Algo%20Cours%202018%20Partie2%20Ettalbi.pdf)
 
+> Complexity of an algorithm is a measure of the amount of time and/or space required by an algorithm for an input of a given size (n).
+
 - Complexity :
 
   - [Al fihriya Academy (darija)](https://www.youtube.com/watch?v=tgeF91zLMzQ&list=PLXH8lluXIxcyf5Th7tiDOL1465UJ6GvCP&index=3)
@@ -110,6 +114,8 @@
   - [Unix Threads](https://www.youtube.com/watch?v=d9s_d28yJq0&list=PLfqABt5AS4FmuQf70psXrsMLEDQXNkLq2)
   - Makefile :
     - [Learn Makefiles](https://www.youtube.com/watch?v=GExnnTaBELk)
+
+> Assembly language learning helps in understanding the processor and memory functions. If the programmer is writing any program that needs to be a compiler, that means the programmer should have a complete understanding of the processor. Assembly language helps in understanding the work of processors and memory.
 
 - :game_die: Assembly
 
@@ -212,7 +218,7 @@
 ---
 
 - Youtube Vids & Channels
-  - [Git/Github](https://www.youtube.com/watch?v=3fUbBnN_H2c) : This Video is my special recommendation to learn git
+  - [Git/Github](https://www.youtube.com/watch?v=3fUbBnN_H2c) : This Video is my special recommendation to learn git.
   - [Al fihriya Academy](https://www.youtube.com/watch?v=b5J8sBlHd1Y&list=PLXH8lluXIxcwnVQhwVJlbuwhkwc0E8CBW)
 - Resources
   - [Github Official Website](https://git-scm.com/)
@@ -232,9 +238,9 @@
 ---
 
 - Lessons & Articles
-  - [ExplainShell](https://explainshell.com/) : A tool that provides good explanation to every Linux command
+  - [ExplainShell](https://explainshell.com/) : A tool that provides good explanation to every Linux command.
   - [Bash Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
-  - [LearnShell.org](https://www.learnshell.org/) : Good website to learn shell scripting with exercises
+  - [LearnShell.org](https://www.learnshell.org/) : Good website to learn shell scripting with exercises.
 
 ---
 
