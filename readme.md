@@ -303,7 +303,7 @@
   - [AngerFist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS?si=lU3KgaeKQqKNHyj64LhXPQ)
   - [Piano](https://open.spotify.com/playlist/2q7U9Dh7buTnrwHEWxcxiq?si=292bf27d43764565)
 - Youtube Music Vids & Channels
-  - [My Playlist](https://www.youtube.com/watch?v=jo7f059kJ-A&list=PLc11zrc3DKEnLmW4jYv84KNC3Y9wk5oh-&index=1)
+  - [My Playlist](https://www.youtube.com/watch?v=BqnG_Ei35JE&list=PLc11zrc3DKEnLmW4jYv84KNC3Y9wk5oh-&index=1)
   - [Coding](https://www.youtube.com/watch?v=M5QY2_8704o)
     -Podcasts
   - [Geeks BlaBla](https://web.facebook.com/geeksblabla/)
