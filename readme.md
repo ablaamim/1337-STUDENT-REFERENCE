@@ -91,7 +91,7 @@
   - [Algorithms part 1 ENSIAS course (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Algo%20Cours%202018%20Partie1%20Ettalbi.pdf) : M. AHMED ETTALBI is an Ensias professor, it is always okay to follow academical courses, as well as they only concern abstraction and theory (lack of practice).
   - [Algorithms part 2 ENSIAS course (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Algo%20Cours%202018%20Partie2%20Ettalbi.pdf)
 
-- Compexity :
+- Complexity :
 
   - [Al fihriya Academy (darija)](https://www.youtube.com/watch?v=tgeF91zLMzQ&list=PLXH8lluXIxcyf5Th7tiDOL1465UJ6GvCP&index=3)
   - [CS DOJO](https://www.youtube.com/watch?v=D6xkbGLQesk)
