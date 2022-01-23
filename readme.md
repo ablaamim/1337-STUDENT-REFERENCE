@@ -115,8 +115,7 @@
   - Makefile :
     - [Learn Makefiles](https://www.youtube.com/watch?v=GExnnTaBELk)
 
-> Assembly language learning helps in understanding the processor and memory functions. If the programmer is writing any program that needs to be a compiler, that means the programmer should have a complete understanding of the processor. Assembly language helps in understanding the work of processors and memory.
-
+> The assembly language isn’t like other higher-level programming languages such as Java, Python, C#, etc. The language syntax is symbolically much close to machine code as you’re working directly with memory locations and addresses inside the processor. 
 - :game_die: Assembly
 
  - [Assembly 68000 ENSIAS COURSE (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Ass%20Cours%202018.pdf)
