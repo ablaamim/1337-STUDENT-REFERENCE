@@ -5,14 +5,18 @@
 
 </p>
 <p align="center">
-<img src="https://www.um6p.ma/sites/default/files/brochures/icone/64576782_678670572570044_6963452870964281344_n_0.jpg" width="500">
+<img src="https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/159025572_1135466283557135_3615568362222306434_n.jpg" width="500">
 <p/>
 
 ---
 
+<p align=center>
 Hello guys, This is some resources that I found very useful. <br>
 Feel free to check them out and give it a :star: if you like it. <br>
 Please consider contributing to the list with a pull request.
+</p>
+
+---
 
 </p>
 <p align="center">
