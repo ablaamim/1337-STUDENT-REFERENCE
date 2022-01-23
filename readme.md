@@ -120,10 +120,10 @@
   - [Mr. Toufik Zniber : Java (FR)](https://www.youtube.com/watch?v=8WY3eG68O4U&list=PLVizoH4F7kiJY8RRe0hpbBT4_AhyVgPbM)
   - [Mr. Jacques Olivier Lapeyre : Programmation Java (FR)](http://www.multiparadigme.org/)
 -  Graph Theory
-  - [Ensias Course chapter 00]() Mr. MOHAMMED ABDOU JANATI IDRISSI academical course.
-  - [Ensias Course chapter 01]()
-  - [Ensias Course chapter 02]()
-  - [Ensias Course chapter 03]()
+  - [Ensias Course chapter 00 (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/trspeltsro09-10-ch0.pdf) Mr. MOHAMMED ABDOU JANATI IDRISSI academical course.
+  - [Ensias Course chapter 01 (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/trspeltsro09-10-ch1.pdf)
+  - [Ensias Course chapter 02 (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/trspeltsro09-10-ch2.pdf)
+  - [Ensias Course chapter 03 (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/trspeltsro09-10-ch3.pdf)
 -  HTML/CSS
   - [LearnHTML.org](https://www.learn-html.org/)
 -  PHP
