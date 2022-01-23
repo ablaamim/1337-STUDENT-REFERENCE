@@ -90,6 +90,11 @@
   - [CS50 Data Structures](https://www.youtube.com/watch?v=2T-A_GFuoTo)
   - [Algorithms part 1 ENSIAS course (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Algo%20Cours%202018%20Partie1%20Ettalbi.pdf) : M. AHMED ETTALBI is an Ensias professor, it is always okay to follow academical courses, as well as they only concern abstraction and theory (lack of practice).
   - [Algorithms part 2 ENSIAS course (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Algo%20Cours%202018%20Partie2%20Ettalbi.pdf)
+
+- Compexity :
+
+  - [Al fihriya Academy (darija)](https://www.youtube.com/watch?v=tgeF91zLMzQ&list=PLXH8lluXIxcyf5Th7tiDOL1465UJ6GvCP&index=3)
+  - [CS DOJO](https://www.youtube.com/watch?v=D6xkbGLQesk)
   
 
 > “Unlike most computer languages, C allows the programmer to write directly to memory. Key constructs in C such as structs, pointers and arrays are designed to structure, and manipulate memory in an efficient, machine-independent fashion.”
@@ -119,7 +124,8 @@
   - [LearnJAVA](https://www.learnjavaonline.org/)
   - [Mr. Toufik Zniber : Java (FR)](https://www.youtube.com/watch?v=8WY3eG68O4U&list=PLVizoH4F7kiJY8RRe0hpbBT4_AhyVgPbM)
   - [Mr. Jacques Olivier Lapeyre : Programmation Java (FR)](http://www.multiparadigme.org/)
--  Graph Theory
+- Graph Theory
+  - [Don Sheehy Lectures](https://www.youtube.com/watch?v=r5qBFm6O5_4&list=PLVqjIisMyo_9h78itHVS2hZzkthxFHoT7)
   - [Ensias Course chapter 00 (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/trspeltsro09-10-ch0.pdf) Mr. MOHAMMED ABDOU JANATI IDRISSI academical course.
   - [Ensias Course chapter 01 (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/trspeltsro09-10-ch1.pdf)
   - [Ensias Course chapter 02 (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/trspeltsro09-10-ch2.pdf)
