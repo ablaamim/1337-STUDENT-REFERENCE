@@ -10,11 +10,12 @@
 
 ---
 
+</h3>
+
 <p align=center>
 
-Hello guys, This is some resources that I found very useful. 
-Feel free to check them out and give it a :star: if you like it.
-Please consider contributing to the list with a pull request.
+</p>
+<i>Hello guys, This is some resources that I found very useful, feel free to check them out and give it a :star: if you like it, please consider contributing to the list with a pull request.</i>
 
 </p>
 
