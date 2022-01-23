@@ -267,7 +267,9 @@
 |--- |--- |--- |
 | [Introduction to Algorithms](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/Introduction%20to%20algorithms%20by%20Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leiserson%2C%20Ronald%20L.%20Rivest%2C%20Clifford%20Stein%20(z-lib.org).pdf) | :star::star::star::star::star: |  Thomas H. Cormen, Charles E. Leiserson, Ronald Rivest, Clifford Stein |
 | [21st Century C](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/21st%20Century%20C.pdf) | :star::star::star: | Ben Klemens |
-
+| [Computer Science Bottom to Up](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/Computer%20Science%20From%20Bottom%20up.pdf) | :star::star::star::star::star: | Ian Wienand |
+| [The Linux programming interface a Linux and UNIX system programming handbook](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/The%20Linux%20programming%20interface%20a%20Linux%20and%20UNIX%20system%20programming%20handbook%20by%20Michael%20Kerrisk%20(z-lib.org).pdf) | :star::star::star::star: | Michael Kerrisk |
+| [Write Great Code, Volume 2 Thinking Low-Level, Writing High-Level](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/Write%20Great%20Code%2C%20Volume%202%20Thinking%20Low-Level%2C%20Writing%20High-Level%20by%20Randall%20Hyde%20(z-lib.org).pdf) | :star::star::star::star: | Randall Hyde |
 ---
 
 ## Fun Stuff 
