@@ -18,7 +18,7 @@ Please consider contributing to the list with a pull request.
 
 ---
 
-## Coding :
+## Coding 
 
 ### Miscellaneous :
 
@@ -31,14 +31,16 @@ Please consider contributing to the list with a pull request.
   - [Pointers : ADEI ENSIAS](https://www.youtube.com/watch?v=f8bstCNctdU&list=PLSWu0SUaMe5gppCgnnZHJh8zIGVUxyWY3)
   - [CS50 : Memory](https://www.youtube.com/watch?v=NKTfNv2T0FE)
   - [Karim Baina Prof ENSIAS : Techniques de programmation](https://www.youtube.com/watch?v=zsgMH2kVI-4&list=PLjYgQBp0uQYeXmHPqLt5TIMKYHDxiZOfR)
-  - [multiparadigme.org](http://www.multiparadigme.org/)
+  - [Jacques Olivier Lapeyre](http://www.multiparadigme.org/)
   - [Stanford : Signals / Processes / Threads and multithreading / mutex](https://www.youtube.com/watch?v=_LFGjZ0Sc6I&list=PLai-xIlqf4JmTNR9aPCwIAOySs1GOm8sQ)
-  - Youtube Vids & Channels
+  - Makefile :
     - [Learn Makefiles 1](https://www.youtube.com/watch?v=_r7i5X0rXJk)
     - [Learn Makefiles 2](https://www.youtube.com/watch?v=GExnnTaBELk)
 
 - Java/JEE
   - [LearnJAVA](https://www.learnjavaonline.org/)
+  - [Toufik Zniber : Java](https://www.youtube.com/watch?v=8WY3eG68O4U&list=PLVizoH4F7kiJY8RRe0hpbBT4_AhyVgPbM)
+  - [Jacques Olivier Lapeyre](http://www.multiparadigme.org/)
 - HTML/CSS
   - [LearnHTML.org](https://www.learn-html.org/)
 - PHP
@@ -54,7 +56,7 @@ Please consider contributing to the list with a pull request.
 
 ---
 
-## WebDev :
+## WebDev 
 
 - Youtube Channels
   - [FreeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
