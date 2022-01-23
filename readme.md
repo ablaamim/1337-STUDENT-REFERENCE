@@ -47,9 +47,13 @@
 
 ## Coding 
 
+> “Everybody should learn to program a computer, because it teaches you how to think.” - Steve Jobs, former CEO and creator of Apple
+
 > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
 
 > First, solve the problem. Then, write the code.” – John Johnson
+
+> “Coding, it's an endless process of trial and error, of trying to get the right command in the right place, with sometimes just a semicolon making the difference between success and failure. Code breaks and then it falls apart, and it often takes many, many tries until that magical moment when what you're trying to build comes to life.” - Reshma Saujani, Entrepreneur, founder of Girls Who Code
 
 > “Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.” – Dan Salomon
 
@@ -113,7 +117,7 @@
   - [Paradigme Objet ENSIAS course Lecture04(FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/M.2.5.1_Lec%2004_Cr%C3%A9ation%20d_objets%20Java.pdf)
   - [LearnJAVA](https://www.learnjavaonline.org/)
   - [Toufik Zniber : Java (FR)](https://www.youtube.com/watch?v=8WY3eG68O4U&list=PLVizoH4F7kiJY8RRe0hpbBT4_AhyVgPbM)
-  - [Jacques Olivier Lapeyre : Programmation Java](http://www.multiparadigme.org/)
+  - [Jacques Olivier Lapeyre : Programmation Java (FR)](http://www.multiparadigme.org/)
 -  HTML/CSS
   - [LearnHTML.org](https://www.learn-html.org/)
 -  PHP
@@ -247,6 +251,22 @@
 
 - [Tech Resources](https://github.com/andou/tech-resources)
 - [42 CheatSheet](https://github.com/agavrel/42_CheatSheet)
+
+---
+
+## Books
+
+</p>
+<p align="center">
+<img src="https://animesher.com/orig/1/111/1119/11198/animesher.com_book-gif-read-1119852.gif" width="500">
+<p/>
+
+---
+
+| Book | Impression | Author(s) |
+|--- |--- |--- |
+| [Introduction to Algorithms](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/Introduction%20to%20algorithms%20by%20Thomas%20H.%20Cormen%2C%20Charles%20E.%20Leiserson%2C%20Ronald%20L.%20Rivest%2C%20Clifford%20Stein%20(z-lib.org).pdf) | :star::star::star::star::star: |  Thomas H. Cormen, Charles E. Leiserson, Ronald Rivest, Clifford Stein |
+| [21st Century C](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/21st%20Century%20C.pdf) | :star::star::star: | Ben Klemens |
 
 ---
 
