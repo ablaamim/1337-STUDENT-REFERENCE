@@ -1,8 +1,23 @@
-# 1337-Student-Ressources
+---
+
+<h1 align=center>
+	<b>1337-Student-Reference</b>
+
+</p>
+<p align="center">
+<img src="https://www.um6p.ma/sites/default/files/brochures/icone/64576782_678670572570044_6963452870964281344_n_0.jpg" width="500">
+<p/>
+
+---
 
 Hello guys, This is some resources that I found very useful. <br>
 Feel free to check them out and give it a :star: if you like it. <br>
 Please consider contributing to the list with a pull request.
+
+</p>
+<p align="center">
+<img src="https://i.giphy.com/3o7TKTDHQ2aUq9PQLm.gif" width="500">
+<p/>
 
 ---
 
@@ -13,6 +28,7 @@ Please consider contributing to the list with a pull request.
 - <a href="#Robotics">Robotics</a>
 - <a href="#Security">Security</a>
 - <a href="#News & Articles">News & Articles</a>
+- <a href="#Linux">Linux</a>
 - <a href="#Useful Github Repos">Useful Github Repos</a>
 - <a href="#Fun Stuff">Fun Stuff</a>
 
