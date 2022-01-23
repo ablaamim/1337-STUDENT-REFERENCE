@@ -3,6 +3,8 @@
 <h1 align=center>
 	<b>1337-Student-Reference</b>
 
+---
+
 </p>
 <p align="center">
 <img src="https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/159025572_1135466283557135_3615568362222306434_n.jpg" width="500">
@@ -132,6 +134,12 @@
 
 ## Security 
 
+
+</p>
+<p align="center">
+<img src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4jx_gY5XBf64ev2QD4G5tN5nHzpjZtpRGnOCL0chOGpS" width="500">
+<p/>
+
 ---
 
 - Youtube Channels
@@ -141,6 +149,11 @@
 ---
 
 ## Git/Github 
+
+</p>
+<p align="center">
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="500">
+<p/>
 
 ---
 
@@ -157,6 +170,13 @@
 
 ---
 
+</p>
+<p align="center">
+<img src="https://4.bp.blogspot.com/-ZahawlUsdtQ/W31F6SnH0ZI/AAAAAAAAAf8/3jr3x65aLvsjZ2A-V6KawSBDGd-R28xswCLcBGAs/s1600/66.gif" width="500">
+<p/>
+
+---
+
 - Lessons & Articles
   - [ExplainShell](https://explainshell.com/) : A tool that provides good explanation to every Linux command
   - [Bash Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
@@ -165,6 +185,11 @@
 ---
 
 ## News & Articles 
+
+</p>
+<p align="center">
+<img src="https://c.tenor.com/NYrgLNGuy7YAAAAC/the-c-programming-language-uncle-dane.gif" width="500">
+<p/>
 
 ---
 
@@ -175,6 +200,11 @@
 
 ## Useful Github Repos 
 
+</p>
+<p align="center">
+<img src="https://c.tenor.com/AUljvJMds5EAAAAd/programming.gif" width="500">
+<p/>
+
 ---
 
 - [Tech Resources](https://github.com/andou/tech-resources)
@@ -183,6 +213,12 @@
 ---
 
 ## Fun Stuff 
+
+</p>
+<p align="center">
+<img src="https://c.tenor.com/sghSDohU-f0AAAAd/happy-programmer-happy-coder.gif" width="500">
+<p/>
+
 
 ---
 
