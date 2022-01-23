@@ -90,7 +90,7 @@
   - [Algo visualizer](https://algorithm-visualizer.org/)
   - [MIT Open Course](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
   - [CS50 Data Structures](https://www.youtube.com/watch?v=2T-A_GFuoTo)
-  - [Algorithms part 1 ENSIAS course (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Algo%20Cours%202018%20Partie1%20Ettalbi.pdf) : M. AHMED ETTALBI is an Ensias professor, it is always okay to follow academical courses, as well as they only concern abstraction and theory (lack of practice).
+  - [Algorithms part 1 ENSIAS course (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Algo%20Cours%202018%20Partie1%20Ettalbi.pdf) : Mr. Ahmed Ettalbi is an Ensias professor, it is always okay to follow academical courses, as well as they only concern abstraction and theory (lack of practice).
   - [Algorithms part 2 ENSIAS course (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Algo%20Cours%202018%20Partie2%20Ettalbi.pdf)
 
 > Complexity of an algorithm is a measure of the amount of time and/or space required by an algorithm for an input of a given size (n).
@@ -103,7 +103,7 @@
 
 > “Unlike most computer languages, C allows the programmer to write directly to memory. Key constructs in C such as structs, pointers and arrays are designed to structure, and manipulate memory in an efficient, machine-independent fashion.”
 
-- :art: C
+- C
   - [LearnC.org](https://www.learn-c.org/)
   - [Pointers : ADEI ENSIAS](https://www.youtube.com/watch?v=f8bstCNctdU&list=PLSWu0SUaMe5gppCgnnZHJh8zIGVUxyWY3) : E-lasse9 is an ensias's students initiative, it aims to simplify programming concepts.
   - [CS50 : Memory](https://www.youtube.com/watch?v=NKTfNv2T0FE)
@@ -119,7 +119,7 @@
 
 - :game_die: Assembly
 
- - [Assembly 6800 ENSIAS COURSE (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Ass%20Cours%202018.pdf)
+ - [Assembly 68000 ENSIAS COURSE (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Ass%20Cours%202018.pdf)
 
 
 - :coffee: Java/JEE
@@ -293,7 +293,7 @@
 
 </p>
 <p align="center">
-<img src="https://c.tenor.com/qUANV6neWiwAAAAd/singing-mic.gif" width="500">
+<img src="https://acegif.com/wp-content/uploads/funny-anime-gif-14.gif" width="500">
 <p/>
 
 
