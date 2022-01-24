@@ -181,6 +181,7 @@
 <p/
 
 - HTML/CSS
+  - [The net Ninja](https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
   - [LearnHTML.org](https://www.learn-html.org/)
   - [Khan Academy](https://fr.khanacademy.org/computing/computer-programming#html-css)
 
