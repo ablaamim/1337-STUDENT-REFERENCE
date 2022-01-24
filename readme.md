@@ -333,11 +333,9 @@
   <b><a href="#summary">⏫ Back To Top</a><b>
 </p>
 
----
-
 </p>
 <p align="center">
-<img src="https://4.bp.blogspot.com/-ZahawlUsdtQ/W31F6SnH0ZI/AAAAAAAAAf8/3jr3x65aLvsjZ2A-V6KawSBDGd-R28xswCLcBGAs/s1600/66.gif" width="500">
+<img src="https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/maxresdefault%20(4).jpg" width="500">
 <p/>
 
 ---
