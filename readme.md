@@ -29,7 +29,7 @@
 
 ---
 
-## :cloud: Summary :
+## Summary 
 
 - <a href="#coding">Coding</a>
 - <a href="#Webdev">Webdev</a>
