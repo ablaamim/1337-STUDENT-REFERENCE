@@ -144,13 +144,13 @@
   - [Ensias Course chapter 01 (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/trspeltsro09-10-ch1.pdf)
   - [Ensias Course chapter 02 (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/trspeltsro09-10-ch2.pdf)
   - [Ensias Course chapter 03 (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/trspeltsro09-10-ch3.pdf)
--  HTML/CSS
+- HTML/CSS
   - [LearnHTML.org](https://www.learn-html.org/)
   - [Khan Academy](https://fr.khanacademy.org/computing/computer-programming#html-css)
--  PHP
+- PHP
   - [LearnPHP.org](https://www.learn-php.org/)
   - [Awesome PHP](https://github.com/ziadoz/awesome-php#readme)
--  Symphony
+- Symphony
   - [Awesome Symphony](https://github.com/sitepoint-editors/awesome-symfony)
   - [Symphony Certification Guide](https://github.com/raulconti/symfony-3-certification-guide)
 - JavaScript
