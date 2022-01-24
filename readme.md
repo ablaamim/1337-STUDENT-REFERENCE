@@ -140,6 +140,7 @@
   - [Ensias Course chapter 03 (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/trspeltsro09-10-ch3.pdf)
 -  HTML/CSS
   - [LearnHTML.org](https://www.learn-html.org/)
+  - [Khan Academy](https://fr.khanacademy.org/computing/computer-programming#html-css)
 -  PHP
   - [LearnPHP.org](https://www.learn-php.org/)
   - [Awesome PHP](https://github.com/ziadoz/awesome-php#readme)
