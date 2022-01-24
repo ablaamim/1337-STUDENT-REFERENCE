@@ -210,6 +210,30 @@
 
 ---
 
+## Markdown :
+
+
+
+</p>
+<p align="center">
+<img src="https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/4be0f23a59_122541_markdown.jpg" width="500">
+<p/>
+
+---
+
+> Markdown Articles Tool is a free command line utility designed to help you manage online Markdown documents (e.g., articles). You can download text with images using deduplication and convert to the different formats. The Markdown Articles Tool is available for macOS, Windows, and Linux. It’s written in Python — if you want to use separate functions, you can just import the package.
+
+- Ressources 
+  - [Markdown CheatSheet](https://www.markdownguide.org/cheat-sheet/)
+  - [DaringFireball](https://daringfireball.net/projects/markdown/syntax)
+  - [Github Doc](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+- Youtuve vids & Channels
+ - [Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
+ - [Memory-Helper md syntax](https://www.youtube.com/watch?v=bpdvNwvEeSE)
+
+---
+
 ## :octocat: Git/Github 
 
 </p>
