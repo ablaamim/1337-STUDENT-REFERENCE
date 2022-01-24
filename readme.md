@@ -1,9 +1,5 @@
 ---
 
-![IT-Resources](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=230&section=header&text=1337-Student-Reference&fontSize=70&fontColor=d6ace6)
-
----
-
 </p>
 <p align="center">
 <img src="https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/159025572_1135466283557135_3615568362222306434_n.jpg" width="500">
@@ -16,16 +12,9 @@
 <p align=center>
 
 </p>
-<i>Hello guys, these are some resources that i find very useful, feel free to check them out and give it a :star: if you like it, please consider contributing to the list with a pull request.</i>
+<i>Hello guys, these are some resources that i find very useful, feel free to check them out and give it a :star: if you like it, please consider contributing to the list with a pull request. [1337.ma](https://1337.ma/en/)</i>
 
 </p>
-
----
-
-</p>
-<p align="center">
-<img src="https://i.giphy.com/3o7TKTDHQ2aUq9PQLm.gif" width="500">
-<p/>
 
 ---
 
@@ -77,7 +66,13 @@
 
 ---
 
-> Knowing what's inside and how it works will help you design, develop, and implement applications better, faster, cheaper, more efficient, and easier to use because you will be able to make informed decisions instead of guestimating and assuming.
+> In computer engineering, computer architecture is a set of rules and methods that describe the functionality, organization, and implementation of computer systems. The architecture of a system refers to its structure in terms of separately specified components of that system and their interrelationships. Some definitions of architecture define it as describing the capabilities and programming model of a computer but not a particular implementation. In other definitions computer architecture involves instruction set architecture design, microarchitecture design, logic design, and implementation.
+
+</p>
+<p align="center">
+<img src="https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/hqdefault.jpg" width="500">
+<p/>
+
 
 - :computer: Computer Architecture :
   - [Computer Science From The Bottom Up](https://www.bottomupcs.com/?fbclid=IwAR1Jn989dGlZ1e6J3Fer3LA8USDpGKV29b5s1kxW5K_mbNojbqazgdAyJPI)
