@@ -12,7 +12,8 @@
 <p align=center>
 
 </p>
-<i>Hello guys, these are some resources that i find very useful, feel free to check them out and give it a :star: if you like it, please consider contributing to the list with a pull request. [1337.ma](https://1337.ma/en/)</i>
+<i>Hello guys, these are some resources that i find very useful, feel free to check them out and give it a :star: if you like it, please consider contributing to the list with a pull request. </i>
+[1337.ma](https://1337.ma/en/)
 
 </p>
 
