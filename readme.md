@@ -111,8 +111,6 @@
 
 ---
 
-> “Unlike most computer languages, C allows the programmer to write directly to memory. Key constructs in C such as structs, pointers and arrays are designed to structure, and manipulate memory in an efficient, machine-independent fashion.”
-
 </p>
 <p align="center">
 <img src="https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/maxresdefault%20(1).jpg" width="500">
@@ -123,6 +121,13 @@
   - [Missing semester : Editors (vim)](https://www.youtube.com/watch?v=a6Q8Na575qc)
 
 ---
+
+</p>
+<p align="center">
+<img src="https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/maxresdefault.jpg" width="500">
+<p/>
+
+> “Unlike most computer languages, C allows the programmer to write directly to memory. Key constructs in C such as structs, pointers and arrays are designed to structure, and manipulate memory in an efficient, machine-independent fashion.”
 
 - C
   - [The C cheat Sheet](https://sites.ualberta.ca/~ygu/courses/geoph624/codes/C.CheatSheet.pdf)
@@ -260,7 +265,7 @@
 
 </p>
 <p align="center">
-<img src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4jx_gY5XBf64ev2QD4G5tN5nHzpjZtpRGnOCL0chOGpS" width="500">
+<img src="https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/maxresdefault%20(5).jpg" width="500">
 <p/>
 
 ---
@@ -405,7 +410,7 @@
 
 </p>
 <p align="center">
-<img src="https://acegif.com/wp-content/uploads/funny-anime-gif-14.gif" width="500">
+<img src="https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/t%C3%A9l%C3%A9chargement.jpg" width="500">
 <p/>
 
 
