@@ -210,9 +210,7 @@
 
 ---
 
-## Markdown :
-
-
+## Markdown 
 
 </p>
 <p align="center">
@@ -229,8 +227,8 @@
   - [Github Doc](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 - Youtuve vids & Channels
- - [Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
- - [Memory-Helper md syntax](https://www.youtube.com/watch?v=bpdvNwvEeSE)
+  - [Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
+  - [Memory-Helper md syntax](https://www.youtube.com/watch?v=bpdvNwvEeSE)
 
 ---
 
