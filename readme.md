@@ -81,7 +81,7 @@
   - [Carnegie Mellon Computer Architecture](https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
   - [Computer Architecture part 1 (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Poly_Archi_1.pdf)
   - [Computer Architecture part 2 (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Poly_Archi_2.pdf)
-
+  - [Saylor.org CS301: Computer Architecture](https://learn.saylor.org/course/CS301)
 
 > If an individual wants to grow and solve projects for a team then they should be proficient in algorithms. As a developer, your everyday work is to solve problems and algorithms solve problems very efficiently. Practicing algorithms will increase you skill and your visibility at work.
 
@@ -98,8 +98,10 @@
 - Complexity :
 
   - [Al fihriya Academy (darija)](https://www.youtube.com/watch?v=tgeF91zLMzQ&list=PLXH8lluXIxcyf5Th7tiDOL1465UJ6GvCP&index=3)
+  - [A Gentle Introduction to Algorithm Complexity Analysis](https://discrete.gr/complexity/)
   - [CS DOJO](https://www.youtube.com/watch?v=D6xkbGLQesk)
-  
+  - [Orders Of growth](https://www.ccs.neu.edu/home/jaa/CS7800.12F/Information/Handouts/order.html)
+  - [Know Thy Complexities!](https://www.bigocheatsheet.com/)
 
 > “Unlike most computer languages, C allows the programmer to write directly to memory. Key constructs in C such as structs, pointers and arrays are designed to structure, and manipulate memory in an efficient, machine-independent fashion.”
 
