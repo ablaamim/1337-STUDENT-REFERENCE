@@ -227,6 +227,8 @@
   - [Github Doc](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 - Youtuve vids & Channels
+  - [Writing beautiful readme using markdown](https://www.youtube.com/watch?v=XuPg3l6MiEk)
+  - [Mise en page Markdown (FR)](https://www.youtube.com/watch?v=4lg3YyugRZQ)
   - [Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
   - [Memory-Helper md syntax](https://www.youtube.com/watch?v=bpdvNwvEeSE)
 
