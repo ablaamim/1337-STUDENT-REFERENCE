@@ -1,7 +1,6 @@
 ---
 
-<h1 align=center>
-	<b>1337-Student-Reference</b>
+![IT-Resources](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=230&section=header&text=1337-Student-Reference&fontSize=70&fontColor=d6ace6)
 
 ---
 
@@ -46,6 +45,10 @@
 :construction: :construction: :construction:
 
 ## Coding 
+
+<p align="right">
+  <b><a href="#summary">⏫ Back To Top</a><b>
+</p>
 
 #### Some quotes : 
 
@@ -162,6 +165,10 @@
 
 ## WebDev 
 
+<p align="right">
+  <b><a href="#summary">⏫ Back To Top</a><b>
+</p>
+
 > Web development gives you the opportunity to express yourself creatively on the internet. ... Fortunately, the high demand, easy-to-learn, fun-to-experience life of a web developer is always a great choice for someone ready to have an exciting career in code.
 
 </p>
@@ -185,6 +192,10 @@
 
 ## Robotics 
 
+<p align="right">
+  <b><a href="#summary">⏫ Back To Top</a><b>
+</p>
+
 > Robotics is an interdisciplinary branch of computer science and engineering. Robotics involves design, construction, operation, and use of robots. The goal of robotics is to design machines that can help and assist humans. Robotics integrates fields of mechanical engineering, electrical engineering, information engineering, mechatronics, electronics, bioengineering, computer engineering, control engineering, software engineering, mathematics, etc.
 </p>
 <p align="center">
@@ -203,6 +214,10 @@
 
 ## Security 
 
+<p align="right">
+  <b><a href="#summary">⏫ Back To Top</a><b>
+</p>
+
 </p>
 <p align="center">
 <img src="https://image.myanimelist.net/ui/_3fYL8i6Q-n-155t3dn_4jx_gY5XBf64ev2QD4G5tN5nHzpjZtpRGnOCL0chOGpS" width="500">
@@ -217,6 +232,10 @@
 ---
 
 ## Markdown 
+
+<p align="right">
+  <b><a href="#summary">⏫ Back To Top</a><b>
+</p>
 
 </p>
 <p align="center">
@@ -242,6 +261,10 @@
 
 ## :octocat: Git/Github 
 
+<p align="right">
+  <b><a href="#summary">⏫ Back To Top</a><b>
+</p>
+
 </p>
 <p align="center">
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="500">
@@ -258,7 +281,11 @@
 
 ---
 
-### Linux 
+## Linux 
+
+<p align="right">
+  <b><a href="#summary">⏫ Back To Top</a><b>
+</p>
 
 ---
 
@@ -278,6 +305,10 @@
 
 ## News and Articles 
 
+<p align="right">
+  <b><a href="#summary">⏫ Back To Top</a><b>
+</p>
+
 </p>
 <p align="center">
 <img src="https://c.tenor.com/NYrgLNGuy7YAAAAC/the-c-programming-language-uncle-dane.gif" width="500">
@@ -291,6 +322,10 @@
 ---
 
 ## Useful Github Repos 
+
+<p align="right">
+  <b><a href="#summary">⏫ Back To Top</a><b>
+</p>
 
 </p>
 <p align="center">
@@ -323,6 +358,10 @@
 ---
 
 ## Fun Stuff 
+
+<p align="right">
+  <b><a href="#summary">⏫ Back To Top</a><b>
+</p>
 
 </p>
 <p align="center">
