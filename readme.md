@@ -105,7 +105,11 @@
 
 > “Unlike most computer languages, C allows the programmer to write directly to memory. Key constructs in C such as structs, pointers and arrays are designed to structure, and manipulate memory in an efficient, machine-independent fashion.”
 
+- Vim
+  - [Luke smith : Vim hacking](https://www.youtube.com/watch?v=GJ_v31qktSk&list=PL-p5XmQHB_JSTaEPygu1DZjuFfb704Uv7)
+  - [Missing semester : Editors (vim)](https://www.youtube.com/watch?v=a6Q8Na575qc)
 - C
+  - [The C cheat Sheet](https://sites.ualberta.ca/~ygu/courses/geoph624/codes/C.CheatSheet.pdf)
   - [LearnC.org](https://www.learn-c.org/)
   - [Pointers : ADEI ENSIAS](https://www.youtube.com/watch?v=f8bstCNctdU&list=PLSWu0SUaMe5gppCgnnZHJh8zIGVUxyWY3) : E-lasse9 is an ensias's students initiative, it aims to simplify programming concepts.
   - [CS50 : Memory](https://www.youtube.com/watch?v=NKTfNv2T0FE)
