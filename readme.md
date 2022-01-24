@@ -13,7 +13,6 @@
 
 </p>
 <i>Hello guys, these are some resources that i find very useful, feel free to check them out and give it a :star: if you like it, please consider contributing to the list with a pull request. </i>
-[1337](https://1337.ma/en/)
 
 </p>
 
@@ -67,13 +66,12 @@
 
 ---
 
-> In computer engineering, computer architecture is a set of rules and methods that describe the functionality, organization, and implementation of computer systems. The architecture of a system refers to its structure in terms of separately specified components of that system and their interrelationships. Some definitions of architecture define it as describing the capabilities and programming model of a computer but not a particular implementation. In other definitions computer architecture involves instruction set architecture design, microarchitecture design, logic design, and implementation.
-
 </p>
 <p align="center">
 <img src="https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/hqdefault.jpg" width="500">
 <p/>
 
+> In computer engineering, computer architecture is a set of rules and methods that describe the functionality, organization, and implementation of computer systems. The architecture of a system refers to its structure in terms of separately specified components of that system and their interrelationships. Some definitions of architecture define it as describing the capabilities and programming model of a computer but not a particular implementation. In other definitions computer architecture involves instruction set architecture design, microarchitecture design, logic design, and implementation.
 
 - :computer: Computer Architecture :
   - [Computer Science From The Bottom Up](https://www.bottomupcs.com/?fbclid=IwAR1Jn989dGlZ1e6J3Fer3LA8USDpGKV29b5s1kxW5K_mbNojbqazgdAyJPI)
@@ -81,6 +79,13 @@
   - [Computer Architecture part 1 (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Poly_Archi_1.pdf)
   - [Computer Architecture part 2 (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Poly_Archi_2.pdf)
   - [Saylor.org CS301: Computer Architecture](https://learn.saylor.org/course/CS301)
+
+---
+
+</p>
+<p align="center">
+<img src="https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/maxresdefault%20(3).jpg" width="500">
+<p/>
 
 > If an individual wants to grow and solve projects for a team then they should be proficient in algorithms. As a developer, your everyday work is to solve problems and algorithms solve problems very efficiently. Practicing algorithms will increase you skill and your visibility at work.
 
@@ -92,6 +97,8 @@
   - [Algorithms part 1 ENSIAS course (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Algo%20Cours%202018%20Partie1%20Ettalbi.pdf) : Mr. Ahmed Ettalbi is an Ensias professor, it is always okay to follow academical courses, as well as they only concern abstraction and theory (lack of practice).
   - [Algorithms part 2 ENSIAS course (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Algo%20Cours%202018%20Partie2%20Ettalbi.pdf)
 
+---
+
 > Complexity of an algorithm is a measure of the amount of time and/or space required by an algorithm for an input of a given size (n).
 
 - Complexity :
@@ -102,11 +109,21 @@
   - [Orders Of growth](https://www.ccs.neu.edu/home/jaa/CS7800.12F/Information/Handouts/order.html)
   - [Know Thy Complexities!](https://www.bigocheatsheet.com/)
 
+---
+
 > “Unlike most computer languages, C allows the programmer to write directly to memory. Key constructs in C such as structs, pointers and arrays are designed to structure, and manipulate memory in an efficient, machine-independent fashion.”
+
+</p>
+<p align="center">
+<img src="https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/maxresdefault%20(1).jpg" width="500">
+<p/
 
 - Vim
   - [Luke smith : Vim hacking](https://www.youtube.com/watch?v=GJ_v31qktSk&list=PL-p5XmQHB_JSTaEPygu1DZjuFfb704Uv7)
   - [Missing semester : Editors (vim)](https://www.youtube.com/watch?v=a6Q8Na575qc)
+
+---
+
 - C
   - [The C cheat Sheet](https://sites.ualberta.ca/~ygu/courses/geoph624/codes/C.CheatSheet.pdf)
   - [LearnC.org](https://www.learn-c.org/)
@@ -122,12 +139,16 @@
   - Makefile :
     - [Learn Makefiles](https://www.youtube.com/watch?v=GExnnTaBELk)
 
+---
+
 > The assembly language isn’t like other higher-level programming languages such as Java, Python, C#, etc. The language syntax is symbolically much close to machine code as you’re working directly with memory locations and addresses inside the processor. 
 - :game_die: Assembly
 
  - [Assembly 68000 ENSIAS COURSE (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/Ass%20Cours%202018.pdf)
  - [Nasm Assembly](https://www.tutorialspoint.com/assembly_programming/index.htm)
  - [RipTutorial](https://riptutorial.com/assembly)
+
+---
 
 - :coffee: Java/JEE
   - [Paradigme Objet ENSIAS course Lecture01(FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/M.2.5.1_Lec%2001_Du%20proc%C3%A9dural%20%C3%A0%20l%E2%80%99Objet.pdf)
@@ -137,23 +158,46 @@
   - [LearnJAVA](https://www.learnjavaonline.org/)
   - [Mr. Toufik Zniber : Java (FR)](https://www.youtube.com/watch?v=8WY3eG68O4U&list=PLVizoH4F7kiJY8RRe0hpbBT4_AhyVgPbM)
   - [Mr. Jacques Olivier Lapeyre : Programmation Java (FR)](http://www.multiparadigme.org/)
+
+---
+
 - Graph Theory
   - [Don Sheehy Lectures](https://www.youtube.com/watch?v=r5qBFm6O5_4&list=PLVqjIisMyo_9h78itHVS2hZzkthxFHoT7)
   - [Ensias Course chapter 00 (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/trspeltsro09-10-ch0.pdf) Mr. MOHAMMED ABDOU JANATI IDRISSI academical course.
   - [Ensias Course chapter 01 (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/trspeltsro09-10-ch1.pdf)
   - [Ensias Course chapter 02 (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/trspeltsro09-10-ch2.pdf)
   - [Ensias Course chapter 03 (FR)](https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/trspeltsro09-10-ch3.pdf)
+
+---
+
+</p>
+<p align="center">
+<img src="https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/maxresdefault%20(2).jpg" width="500">
+<p/
+
 - HTML/CSS
   - [LearnHTML.org](https://www.learn-html.org/)
   - [Khan Academy](https://fr.khanacademy.org/computing/computer-programming#html-css)
+
+---
+
 - PHP
   - [LearnPHP.org](https://www.learn-php.org/)
   - [Awesome PHP](https://github.com/ziadoz/awesome-php#readme)
+
+---
+
 - Symphony
   - [Awesome Symphony](https://github.com/sitepoint-editors/awesome-symfony)
   - [Symphony Certification Guide](https://github.com/raulconti/symfony-3-certification-guide)
+
+---
+
 - JavaScript
   - [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) 
+
+---
+
 - Databases
   - [LearnSQL](https://www.learnsqlonline.org/)
 
