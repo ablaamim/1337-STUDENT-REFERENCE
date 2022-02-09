@@ -71,6 +71,7 @@
 <img src="https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/hqdefault.jpg" width="500">
 <p/>
 
+
 > In computer engineering, computer architecture is a set of rules and methods that describe the functionality, organization, and implementation of computer systems. The architecture of a system refers to its structure in terms of separately specified components of that system and their interrelationships. Some definitions of architecture define it as describing the capabilities and programming model of a computer but not a particular implementation. In other definitions computer architecture involves instruction set architecture design, microarchitecture design, logic design, and implementation.
 
 - :computer: Computer Architecture :
@@ -86,6 +87,10 @@
 <p align="center">
 <img src="https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/maxresdefault%20(3).jpg" width="500">
 <p/>
+
+<p align="right">
+  <b><a href="#summary">⏫ Back To Top</a><b>
+</p>
 
 > If an individual wants to grow and solve projects for a team then they should be proficient in algorithms. As a developer, your everyday work is to solve problems and algorithms solve problems very efficiently. Practicing algorithms will increase you skill and your visibility at work.
 
@@ -114,7 +119,11 @@
 </p>
 <p align="center">
 <img src="https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/maxresdefault%20(1).jpg" width="500">
-<p/
+<p/>
+
+<p align="right">
+  <b><a href="#summary">⏫ Back To Top</a><b>
+</p>
 
 - Vim
   - [Luke smith : Vim hacking](https://www.youtube.com/watch?v=GJ_v31qktSk&list=PL-p5XmQHB_JSTaEPygu1DZjuFfb704Uv7)
@@ -126,6 +135,10 @@
 <p align="center">
 <img src="https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/maxresdefault.jpg" width="500">
 <p/>
+
+<p align="right">
+  <b><a href="#summary">⏫ Back To Top</a><b>
+</p>
 
 > “Unlike most computer languages, C allows the programmer to write directly to memory. Key constructs in C such as structs, pointers and arrays are designed to structure, and manipulate memory in an efficient, machine-independent fashion.”
 
@@ -178,7 +191,11 @@
 </p>
 <p align="center">
 <img src="https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/maxresdefault%20(2).jpg" width="500">
-<p/
+<p/>
+
+<p align="right">
+  <b><a href="#summary">⏫ Back To Top</a><b>
+</p>
 
 - HTML/CSS
   - [The net Ninja](https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
