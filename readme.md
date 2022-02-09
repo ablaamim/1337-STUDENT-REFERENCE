@@ -88,10 +88,6 @@
 <img src="https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/maxresdefault%20(3).jpg" width="500">
 <p/>
 
-<p align="right">
-  <b><a href="#summary">⏫ Back To Top</a><b>
-</p>
-
 > If an individual wants to grow and solve projects for a team then they should be proficient in algorithms. As a developer, your everyday work is to solve problems and algorithms solve problems very efficiently. Practicing algorithms will increase you skill and your visibility at work.
 
 - :black_nib: Algorithms and data structures :
