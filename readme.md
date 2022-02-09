@@ -274,6 +274,8 @@
 - Youtube Channels
   - [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)
   - [Stanford CyberSecurity](https://www.youtube.com/watch?v=J2txSFdQWIY&list=PLoROMvodv4rPIdnIoOMmjjxZRqM1pPkLT)
+  - [John Hammond](https://www.youtube.com/c/JohnHammond010)
+  - [LiveOverflow](https://www.youtube.com/c/LiveOverflow)
 
 ---
 
