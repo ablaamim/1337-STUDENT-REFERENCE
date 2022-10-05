@@ -103,13 +103,56 @@ There are no teachers but a pedagogic team that ensure that students do not harm
 > **시작이 반이다** ― *The beginning is half of the way (Korean proverb)* 
 
 ### First by installing a C compiler on your computer
+
 * On Windows it is a bit tricky, you will have to install [Mingw](http://www.mingw.org/)
 * On Linux it is pretty straightforward since it is only installed and if not ```apt-get``` will make it easy.
 * On MAC it is not much more difficult, google how to do it.
 
+---
+
+### Structure of a code in C
+
+* C code is written in a file with the extension .c . It can be modified with any text editor ( emacs , vim , etc).
+* C code is executed by following line-by-line instructions in functions .
+* A function consists of several parts:
+
+> Declaration of the variables used
+
+> Instructions
+
+> Value returned at the end of the function (optional)
+
+> The first function called is the main function . There must always be one in a C program.
+
+> A function is declared as follows:
+
+```c
+	type_of_returned_variable 	function_name ( type_argument1 name_argument1 , type_argument2 name_argument2 )  
+	{
+		statement1;
+		statement2;
+		statement1;
+		statement2;
+		return (return_value);
+	}
+```
+
+* A function can call other functions in one statement:
+```c
+		return_value = my_function(argument1, argument2);
+```
+* The "return" statement returns a value and stops the execution of the function. If we put instructions after a return, they will never be executed.
+* A function must be declared before it is called. So the main must be at the very bottom of the file.
+
+---
+
 ### C Data Types
 
-I will only list the main ones
+Instructions use variables.
+These variables have types allowing to define their size (in bytes).
+In a variable, we can only store a number, whose lower and upper limit depends on the type.
+
+* I will only list the main ones :
 
 |Data Type|Bytes|Description|
 |-|-|-|
