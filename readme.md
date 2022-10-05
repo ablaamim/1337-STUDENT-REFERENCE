@@ -46,7 +46,10 @@
 
 There are no teachers but a pedagogic team that ensure that students do not harm the material and provide a cursus syllabus to follow. What is learned is hence mainly achieved through peer-to-peer project review and [RTFM](https://en.wikipedia.org/wiki/RTFM).
 
-![RTFM meme](https://i.kym-cdn.com/photos/images/newsfeed/000/017/668/Mao_RTFM_vectorize_by_cmenghi.png?1318992465)
+</p>
+<p align="center">
+<img src="https://i.kym-cdn.com/photos/images/newsfeed/000/017/668/Mao_RTFM_vectorize_by_cmenghi.png?1318992465" width="500">
+<p/>
 
 ---
 
@@ -54,9 +57,9 @@ There are no teachers but a pedagogic team that ensure that students do not harm
 
 > 1 - WORK AND DUNNOT LET THE BLACK HOLE ABSORB YOU.
 
-> 2 - WORK MORE, WORK EVEN MOAR!
+> 2 - WORK MORE, I MEAN YOU HAVE TO WORK EVEN MOAR!
 
-> 3 - RTFM. (READ THE FUCKING MANUAL).
+> 3 - RTFM.
 
 ---
 
@@ -319,7 +322,7 @@ It is also possible to ask the compiler to perform (or not) optimizations:
 
 -O2 : Level 2 optimization 
 
--O3 : Level 3 optimization However, I don't recommend using these while building a C program (why?) . (Once it's over, why not)
+-O3 : Level 3 optimization However, I don't recommend using these while building a C program. (Once it's over, why not)
 
 You can compile several C files for the same program.
 
