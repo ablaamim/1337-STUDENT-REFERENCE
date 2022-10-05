@@ -12,14 +12,15 @@
 <p align=center>
 
 </p>
-<i>Hello guys, these are some resources that i find very useful, feel free to check them out and give it a :star: if you like it, please consider contributing to the list with a pull request. </i>
-
+<i>"The world, even the smallest parts of it, is filled with things you don't know."</i>
 </p>
 
 ---
 
-## Summary 
+## Summary
 
+
+- <a href="#1337">1337</a>
 - <a href="#coding">Coding</a>
 - <a href="#Webdev">Webdev</a>
 - <a href="#Robotics">Robotics</a>
@@ -32,6 +33,15 @@
 ---
 
 :construction: :construction: :construction:
+
+## 1337
+
+</p>
+<p align="center">
+<img src="" width="500">
+<p/>
+
+---
 
 ## Coding 
 
