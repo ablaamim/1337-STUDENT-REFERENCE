@@ -32,37 +32,32 @@
 
 ---
 
-:construction: :construction: :construction:
-
 ## 1337
+
+---
 
 </p>
 <p align="center">
 <img src="https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/accretion-disk-black-hole-diagram-NASA.png" width="500">
 <p/>
 
+----
+
 There are no teachers but a pedagogic team that ensure that students do not harm the material and provide a cursus syllabus to follow. What is learned is hence mainly achieved through peer-to-peer project review and [RTFM](https://en.wikipedia.org/wiki/RTFM).
 
 ![RTFM meme](https://i.kym-cdn.com/photos/images/newsfeed/000/017/668/Mao_RTFM_vectorize_by_cmenghi.png?1318992465)
 
+---
+
 ### 3 Mandatory tips to succeed in 1337 :
 
 > 1 - WORK AND DUNNOT LET THE BLACK HOLE ABSORB YOU.
+
 > 2 - WORK MORE, WORK EVEN MOAR!
+
 > 3 - RTFM. (READ THE FUCKING MANUAL).
 
 ## Libft :
-
----
-
-### :book: LIBFT-42 :
-
----
-
-</p>
-<p align="center">
-<img src="https://github.com/ablaamim/LIBFT-42/blob/main/ressources/libftm.png" width="150">
-</p>
 
 ---
 
@@ -97,6 +92,214 @@ There are no teachers but a pedagogic team that ensure that students do not harm
 ---
 
 >This project aims to code a C library regrouping usual functions that you’ll be allowed to use in all your other projects.
+
+---
+
+## 0x02 ~ Coding simple C programs
+
+> **시작이 반이다** ― *The beginning is half of the way (Korean proverb)* 
+
+### First by installing a C compiler on your computer
+* On Windows it is a bit tricky, you will have to install [Mingw](http://www.mingw.org/)
+* On Linux it is pretty straightforward since it is only installed and if not ```apt-get``` will make it easy.
+* On MAC it is not much more difficult, google how to do it.
+
+### C Data Types
+
+I will only list the main ones
+
+|Data Type|Bytes|Description|
+|-|-|-|
+|char|1|Used for text
+|bool|1|Used to return true or false, you will need the header <stdbool.h>
+|short|2|Half the size of an integer, used to optimize memory
+|int|4|Loop Counter, operations on integers
+|long|8|Twice the size of an integer, used when overflow is a problem
+|float|4|Used for computer graphics
+|double|8|Used for computer graphics, more precised than float but takes more memory
+|unsigned|.|Apply to char, short, int and long, means than it cannot have negative values
+
+You should then try to recode basic C functions
+
+### Pointers
+
+> [In computer science, a pointer is a programming language object that stores a memory address.](https://en.wikipedia.org/wiki/Pointer_(computer_programming))
+
+**Pointer is a fundamental concept of C programming**.
+
+**You can think of your computer's memory as a contiguous array of bytes**. Each time that you make an innocent declaration and assignation such as **`int a = 5`**, this value is written into your computer's memory on 4 bytes (integer size).
+This value will be written at a specific memory address, the **stack** (fast access to memory) if no memory allocation, else it will be stored deeper in the **heap**. This address also has a value!
+
+
+*Example illustrating the difference a pointer - a memory address pointing to value - and a value:*
+
+```c
+#include <stdio.h>
+
+int main(void) {
+	int a = 5;	// declaring an integer variable and assigning the value of 5
+	int *ptr;	// declaring a pointer to integer
+	int b;		// declaring an integer variable
+    printf("ptr's value: %2d, ptr's address: %p\n\n", *ptr, ptr);
+
+	ptr = &a;	// pointer ptr points to what is stored at the memory address of variable a
+	b = a;		// b will take the value and not the address
+	a = 42;		// b is still equal to 5, but ptr will return 42, which is the value now stored at a's location;
+	printf("  a's value: %2d,   a's address: %p\n", a, &a);
+	printf("ptr's value: %2d, ptr's address: %p\n", *ptr, ptr); // you will get the same as above, notice that you have to dereference the pointer with * to get the value, and using the pointer alone (ptr) will give you the memory address.
+	printf("  b's value: %2d,   b's address: %p\n", b, &b);
+	//printf("Size of ptr: %zu\n", sizeof(ptr)); // size of ptr in bytes, 8 on my system.
+	return 0;
+}
+```
+
+You will get this kind of output:
+```
+ptr's value:  1, ptr's address: 0x7ffd99493000
+
+  a's value: 42,   a's address: 0x7ffd99492f08
+ptr's value: 42, ptr's address: 0x7ffd99492f08  <-- they now match thanks to ptr = &a
+  b's value:  5,   b's address: 0x7ffd99492f0c
+```
+
+**NB: On the second printf you will get the value that you got for `a`, notice that you have to dereference the pointer with * to get the value, and using the pointer alone (ptr) will give you the memory address.**
+
+
+#### [About Endianness](https://en.wikipedia.org/wiki/Endianness).
+
+Values are stored differently depending on the kind of system you are using.
+
+Little endian means that the value is stored in memory from left to right, big endian means it is stored from right to left.
+
+*[See this example with int a = 9](https://stackoverflow.com/questions/12791864/c-program-to-check-little-vs-big-endian/12792301#12792301):*
+
+```
+little endian: 
+
+       higher memory
+          ----->
+    +----+----+----+----+
+    |0x09|0x00|0x00|0x00|
+    +----+----+----+----+
+    |
+   &x = 0xff
+
+
+big endian:
+    +----+----+----+----+
+    |0x00|0x00|0x00|0x09|
+    +----+----+----+----+
+    |
+   &x
+```
+
+*To find out if your system is big or little endian you can use the [following function](https://stackoverflow.com/questions/4181951/how-to-check-whether-a-system-is-big-endian-or-little-endian/4181991):*
+```c
+int x = 9;
+
+if (*(char *)&x == 0x09) // we cast x as a byte to get its very first byte, it will return true (meaning little endian) if the first byte is equal to 9.
+```
+
+### ft_putchar
+
+*A minimalist c program that will puzzle beginners, write it in a file named a.c and create a.out with ```gcc a.c && ./a.out```*
+
+The following program will print a char by making use of [write](http://man7.org/linux/man-pages/man2/write.2.html)
+
+```c
+#include <unistd.h>
+
+void	ft_putchar(char c) // void because the function does not return any value, it writes directly, char is the type of the variable c that is given as parameter to the function ft_putchar by the main function.
+{
+	write(1, &c, 1);			// ssize_t write(int fd, const void *buf, size_t count); or in human language: write count letters of buf (which is a pointer) to fd (if fd = 1 this is your terminal, stdout)
+}
+
+int	main(void) {
+	ft_putchar(42);				// will print a star
+	// ft_putchar(42 + '0');	// will only print 4
+	// ft_putchar("4");			// will not work, you are using " instead of ', so C language think it is a char array.
+	return 0;
+}
+```
+
+Once you understand well how to print a character, you should try to return the length of many together (it is called a [string](https://en.wikipedia.org/wiki/String_(computer_science)))
+
+### ft_strlen
+
+```c
+#include <unistd.h>
+
+int		ft_strlen(char *str) {
+	int i = 0;					// set variable i to 0
+	while (str[i] != '\0')		// while the char array does not reach a NULL character
+		i++;					// increment i, equivalent of i = i + 1;
+
+	return i;					// return i variable to the caller function
+}
+
+int main(void) {
+	int i = ft_strlen("Duck Tales");	// declare i, call the function ft_strlen, and assign its output to i
+	printf("%d", i); // remember that it is forbidden to submit a function with printf during the Piscine
+	return 0;
+}
+```
+*NB: remember that it is forbidden to submit a function with printf during the Piscine*
+
+### ft_putstr
+
+Then print a whole string by recoding the libc function 'puts':
+```c
+#include <stdio.h> // header for puts
+
+int main(void) {
+	puts("Duck Tales");
+	return 0;
+}
+```
+
+This can be achieve by using and index that starts on the first character and is progressively incremented until NULL as string are NULL terminated:
+```c
+#include <unistd.h>
+
+void	ft_putstr(char *str) {
+	int i = 0;
+
+	while(str[i] != '\0')
+		write(1, &str[i++], 1);
+}
+```
+
+Along with the main function slightly modified to make use of your code:
+```c
+int main(void) {
+	ft_putstr("Duck Tales");
+	return 0;
+}
+```
+
+You can also use only the pointer since you do not care of the return value (the function type being void)
+```c
+#include <unistd.h>
+
+void	ft_putstr(char *str) {
+	while(*str)
+		write(1, s++, 1);
+}
+```
+
+Or even use the length of the string to print the whole string at once, hence avoiding many *[system calls](https://en.wikipedia.org/wiki/System_call) (write)* that are costly for the program execution:
+
+```c
+void	ft_putstr(char *str) {
+	write(1, str, ft_strlen(str));
+}
+```
+*NB: You have to include ft_strlen in the same file AND above the function to make it work.*
+
+Next you should **study the different concepts in programming**, especially spend time understanding the different [C data types](https://en.wikipedia.org/wiki/C_data_types), [the concept of pointers](https://en.wikipedia.org/wiki/Pointer_(computer_programming)) and [arrays](https://en.wikipedia.org/wiki/Array_data_type), because it is what you have been using up to now and it will only get more complicated.
+
+
+---
 
 ---
 
