@@ -38,8 +38,65 @@
 
 </p>
 <p align="center">
-<img src="" width="500">
+<img src="https://github.com/ablaamim/1337-STUDENT-REFERENCE/blob/master/srcs/accretion-disk-black-hole-diagram-NASA.png" width="500">
 <p/>
+
+There are no teachers but a pedagogic team that ensure that students do not harm the material and provide a cursus syllabus to follow. What is learned is hence mainly achieved through peer-to-peer project review and [RTFM](https://en.wikipedia.org/wiki/RTFM).
+
+![RTFM meme](https://i.kym-cdn.com/photos/images/newsfeed/000/017/668/Mao_RTFM_vectorize_by_cmenghi.png?1318992465)
+
+### 3 Mandatory tips to succeed in 1337 :
+
+> 1 - WORK AND DUNNOT LET THE BLACK HOLE ABSORB YOU.
+> 2 - WORK MORE, WORK EVEN MOAR!
+> 3 - RTFM. (READ THE FUCKING MANUAL).
+
+## Libft :
+
+---
+
+### :book: LIBFT-42 :
+
+---
+
+</p>
+<p align="center">
+<img src="https://github.com/ablaamim/LIBFT-42/blob/main/ressources/libftm.png" width="150">
+</p>
+
+---
+
+### :coffee: Artistic view of your LIBFT :
+
+---
+
+</p>
+<p align="center">
+<img src="https://www.iamsterdam.com/media/locations-ndtrc/museums/rijksmuseum-library-cc-bynd-20-hans-splinter-via-flickr.jpg?w=977" width="800">
+</p>
+
+---
+
+### Subject :
+
+---
+
+:book: [ENGLISH PDF](https://github.com/alaamimi/LIBFT-42/blob/main/en.subject.pdf)
+
+---
+
+### :information_source: What exactly is LIBFT ?
+
+---
+
+</p>
+<p align="center">
+<img src="https://github.com/ablaamim/libft/blob/main/ressources/Libft.png" width="500">
+</p>
+
+---
+
+>This project aims to code a C library regrouping usual functions that you’ll be allowed to use in all your other projects.
 
 ---
 
