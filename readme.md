@@ -284,8 +284,50 @@ Little endian means that the value is stored in memory from left to right, big e
 
 *[See this example with int a = 9](https://stackoverflow.com/questions/12791864/c-program-to-check-little-vs-big-endian/12792301#12792301):*
 
+#### The compilation
+
+We compile with gcc (aka cc ).
+
+The compiler then generates an (executable) a.out file .
+It is possible to change the name of the file using the -o option
 ```
-little endian: 
+     gcc -o executable_name my_code.c
+```
+
+If there are one or more errors, they will be displayed and the compilation will stop.
+However, some "errors" may not prevent compilation, they are called Warnings .
+It is nevertheless very important to correct these small errors because most of the time, they will disturb the normal operation of the program.
+
+To display more Warnings, it is possible (and recommended) to add options (called compilation flags):
+
+* -w : Disable all warnings (not recommended)
+* -Wextra : Displays even more warnings
+* -Wall : Display more warnings 
+* -Werror : Consider warnings as errors and stop compiling
+* -ansi : Displays warnings in case of non-compliance with the ISO C90 standard
+Many more are available. Refer to the gcc man .
+It is also possible to ask the compiler to perform (or not) optimizations:
+
+-O0 : Disables all optimizations
+-O1 : Level 1 optimization 
+-O2 : Level 2 optimization 
+-O3 : Level 3 optimization However, I don't recommend using these while building a C program (why?) . (Once it's over, why not)
+You can compile several C files for the same program.
+
+#### Compilation example:
+```
+     gcc -O0 -Wall -Wextra -Werror -ansi -o my_executable my_code.c
+```
+
+To avoid having to type this long command each time you compile, make yourself an alias!
+Once the program is compiled, you can run it to see what it does:
+```
+     ./my_executable
+```
+
+
+
+#### little endian: 
 
        higher memory
           ----->
