@@ -106,7 +106,7 @@ There are no teachers but a pedagogic team that ensure that students do not harm
 
 * On Windows it is a bit tricky, you will have to install [Mingw](http://www.mingw.org/)
 * On Linux it is pretty straightforward since it is only installed and if not ```apt-get``` will make it easy.
-* On MAC it is not much more difficult, google how to do it.
+* On MAC it is not much more difficult, i will mention it bellow.
 
 ---
 
@@ -164,6 +164,71 @@ In a variable, we can only store a number, whose lower and upper limit depends o
 |float|4|Used for computer graphics
 |double|8|Used for computer graphics, more precised than float but takes more memory
 |unsigned|.|Apply to char, short, int and long, means than it cannot have negative values
+
+(This table is not necessarily correct, it depends on the architecture of your machine. It is, for example, not valid in 64 bits.)
+* char, short, int, long and their respective unsigned can only contain integers (2, 6, 42, 254, ...).
+* float, double and long double can contain floating point numbers (2.0, 6.21, 42.5694, -3.457, ...).
+* The keyword void signifies the absence of a variable, for example, if a function returns nothing or if it does not take a parameter.
+
+* There are pre-defined types that have a name allowing you to know their roles.
+For example, size_t contains the size of an array (see what an array is later.)
+ssize_t will be used to iterate over an array.
+
+* To use a variable, you must declare it by giving it a name:
+```c
+	type 		name ;
+```
+* In a function, we declare all the variables before using them.
+Function names should contain only lowercase letters, numbers, and underscores ("_").
+They must be in English and self- explanatory . Thanks to the name of the variable, we must understand what it contains, what it is used for in the program.
+The variable name i is often used for a counter.
+* Variables are internal to functions. A variable declared in a function does not exist anywhere else than in this one.
+* It is possible to declare so-called global variables by declaring them outside of any function. It is not recommended, it is better to avoid them as much as possible.
+
+#### An example...
+
+... is better than a long speech!
+```c
+	int subtraction ( int  a , int  b )
+	{
+		int 	result;
+
+		result = a - b;
+		return (result);
+	}
+
+	int main ( void )
+	{
+		int	i;
+
+		i = 3;
+		i = i + 5;
+		i = subtraction(i, 2);
+		return (0);
+	}
+```
+
+#### Here's what's going on here :
+
+* The program begins its execution with the main function (it takes no parameters).
+* In it, we declare a variable of type int and name " i ".
+* We then assign a value to the variable i using the " = ".
+--> i = 3.
+* The next statement takes the value of i (3) and adds 5 to it. It then puts that result into i, which overwrites its old value.
+--> i = 8.
+* The following statement calls a function to which it gives two arguments: i (8) and 2.
+* We then enter the subtraction function. We see that it takes 2 arguments of int type (a and b) as parameters. That's good, that's what we sent him during the call!
+--> a = 8 and b = 2.
+* We then declare a new variable of type int named "result".
+--> a = 8, b = 2 and result = unknown value (/!\ not necessarily = 0)
+* We perform the calculation of a - b, ie 8 - 2, and we put this value in "result".
+--> a = 8, b = 2 and result = 6
+* The return statement returns the value of result and we return to the main function.
+* The value that the function returned is placed in i.
+--> i = 6. (a, b and result no longer exist: they were specific to the subtraction function).
+* The main function has then completed its instructions and is therefore the last instruction that returns a value.
+* The value 0 means that the execution of the program went well. Another value means there was an error.
+* Now, to test this program, we will compile it and launch it. We will realize that it does not display anything.
 
 You should then try to recode basic C functions
 
