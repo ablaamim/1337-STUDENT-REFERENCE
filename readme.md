@@ -21,6 +21,7 @@
 
 
 - <a href="#1337">1337</a>
+- <a href="#libft">libft</a>
 - <a href="#coding">Coding</a>
 - <a href="#Webdev">Webdev</a>
 - <a href="#Robotics">Robotics</a>
@@ -57,7 +58,9 @@ There are no teachers but a pedagogic team that ensure that students do not harm
 
 > 3 - RTFM. (READ THE FUCKING MANUAL).
 
-## Libft :
+---
+
+## Libft
 
 ---
 
@@ -95,7 +98,7 @@ There are no teachers but a pedagogic team that ensure that students do not harm
 
 ---
 
-## 0x02 ~ Coding simple C programs
+## ~ Coding simple C programs / General knowledge with examples :
 
 > **시작이 반이다** ― *The beginning is half of the way (Korean proverb)* 
 
@@ -214,7 +217,8 @@ void	ft_putchar(char c) // void because the function does not return any value, 
 	write(1, &c, 1);			// ssize_t write(int fd, const void *buf, size_t count); or in human language: write count letters of buf (which is a pointer) to fd (if fd = 1 this is your terminal, stdout)
 }
 
-int	main(void) {
+int	main(void)
+{
 	ft_putchar(42);				// will print a star
 	// ft_putchar(42 + '0');	// will only print 4
 	// ft_putchar("4");			// will not work, you are using " instead of ', so C language think it is a char array.
@@ -229,7 +233,8 @@ Once you understand well how to print a character, you should try to return the 
 ```c
 #include <unistd.h>
 
-int		ft_strlen(char *str) {
+int		ft_strlen(char *str)
+{
 	int i = 0;					// set variable i to 0
 	while (str[i] != '\0')		// while the char array does not reach a NULL character
 		i++;					// increment i, equivalent of i = i + 1;
@@ -238,7 +243,7 @@ int		ft_strlen(char *str) {
 }
 
 int main(void) {
-	int i = ft_strlen("Duck Tales");	// declare i, call the function ft_strlen, and assign its output to i
+	int i = ft_strlen("1337 is the answer");	// declare i, call the function ft_strlen, and assign its output to i
 	printf("%d", i); // remember that it is forbidden to submit a function with printf during the Piscine
 	return 0;
 }
@@ -251,8 +256,9 @@ Then print a whole string by recoding the libc function 'puts':
 ```c
 #include <stdio.h> // header for puts
 
-int main(void) {
-	puts("Duck Tales");
+int main(void)
+{
+	puts("1337 is the answer");
 	return 0;
 }
 ```
@@ -272,7 +278,7 @@ void	ft_putstr(char *str) {
 Along with the main function slightly modified to make use of your code:
 ```c
 int main(void) {
-	ft_putstr("Duck Tales");
+	ft_putstr("You are the answer\n");
 	return 0;
 }
 ```
@@ -281,7 +287,8 @@ You can also use only the pointer since you do not care of the return value (the
 ```c
 #include <unistd.h>
 
-void	ft_putstr(char *str) {
+void	ft_putstr(char *str)
+{
 	while(*str)
 		write(1, s++, 1);
 }
@@ -290,16 +297,14 @@ void	ft_putstr(char *str) {
 Or even use the length of the string to print the whole string at once, hence avoiding many *[system calls](https://en.wikipedia.org/wiki/System_call) (write)* that are costly for the program execution:
 
 ```c
-void	ft_putstr(char *str) {
+void	ft_putstr(char *str)
+{
 	write(1, str, ft_strlen(str));
 }
 ```
 *NB: You have to include ft_strlen in the same file AND above the function to make it work.*
 
 Next you should **study the different concepts in programming**, especially spend time understanding the different [C data types](https://en.wikipedia.org/wiki/C_data_types), [the concept of pointers](https://en.wikipedia.org/wiki/Pointer_(computer_programming)) and [arrays](https://en.wikipedia.org/wiki/Array_data_type), because it is what you have been using up to now and it will only get more complicated.
-
-
----
 
 ---
 
