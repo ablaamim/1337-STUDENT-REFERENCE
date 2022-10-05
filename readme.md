@@ -265,12 +265,13 @@ int main(void) {
 ```
 
 You will get this kind of output:
+
 ```
 ptr's value:  1, ptr's address: 0x7ffd99493000
 
-  a's value: 42,   a's address: 0x7ffd99492f08
-ptr's value: 42, ptr's address: 0x7ffd99492f08  <-- they now match thanks to ptr = &a
-  b's value:  5,   b's address: 0x7ffd99492f0c
+	a's value: 42,   a's address: 0x7ffd99492f08
+	ptr's value: 42, ptr's address: 0x7ffd99492f08  <-- they now match thanks to ptr = &a
+	b's value:  5,   b's address: 0x7ffd99492f0c
 ```
 
 **NB: On the second printf you will get the value that you got for `a`, notice that you have to dereference the pointer with * to get the value, and using the pointer alone (ptr) will give you the memory address.**
@@ -302,9 +303,13 @@ Many more are available. Refer to the gcc man .
 It is also possible to ask the compiler to perform (or not) optimizations:
 
 -O0 : Disables all optimizations
+
 -O1 : Level 1 optimization 
+
 -O2 : Level 2 optimization 
+
 -O3 : Level 3 optimization However, I don't recommend using these while building a C program (why?) . (Once it's over, why not)
+
 You can compile several C files for the same program.
 
 #### Compilation example:
@@ -339,6 +344,7 @@ Little endian means that the value is stored in memory from left to right, big e
 
 
 big endian:
+```
     +----+----+----+----+
     |0x00|0x00|0x00|0x09|
     +----+----+----+----+
