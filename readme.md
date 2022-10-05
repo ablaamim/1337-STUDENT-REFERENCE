@@ -275,13 +275,6 @@ ptr's value: 42, ptr's address: 0x7ffd99492f08  <-- they now match thanks to ptr
 
 **NB: On the second printf you will get the value that you got for `a`, notice that you have to dereference the pointer with * to get the value, and using the pointer alone (ptr) will give you the memory address.**
 
-
-#### [About Endianness](https://en.wikipedia.org/wiki/Endianness).
-
-Values are stored differently depending on the kind of system you are using.
-
-Little endian means that the value is stored in memory from left to right, big endian means it is stored from right to left.
-
 *[See this example with int a = 9](https://stackoverflow.com/questions/12791864/c-program-to-check-little-vs-big-endian/12792301#12792301):*
 
 #### The compilation
@@ -325,6 +318,13 @@ Once the program is compiled, you can run it to see what it does:
      ./my_executable
 ```
 
+#### [About Endianness](https://en.wikipedia.org/wiki/Endianness).
+
+Values are stored differently depending on the kind of system you are using.
+
+Little endian means that the value is stored in memory from left to right, big endian means it is stored from right to left.
+
+*[See this example with int a = 9](https://stackoverflow.com/questions/12791864/c-program-to-check-little-vs-big-endian/12792301#12792301):*
 
 
 #### little endian: 
