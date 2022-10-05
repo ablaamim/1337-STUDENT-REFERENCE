@@ -232,6 +232,8 @@ The variable name i is often used for a counter.
 
 You should then try to recode basic C functions
 
+---
+
 ### Pointers
 
 > [In computer science, a pointer is a programming language object that stores a memory address.](https://en.wikipedia.org/wiki/Pointer_(computer_programming))
@@ -247,11 +249,12 @@ This value will be written at a specific memory address, the **stack** (fast acc
 ```c
 #include <stdio.h>
 
-int main(void) {
+int main(void)
+{
 	int a = 5;	// declaring an integer variable and assigning the value of 5
 	int *ptr;	// declaring a pointer to integer
 	int b;		// declaring an integer variable
-    printf("ptr's value: %2d, ptr's address: %p\n\n", *ptr, ptr);
+	printf("ptr's value: %2d, ptr's address: %p\n\n", *ptr, ptr);
 
 	ptr = &a;	// pointer ptr points to what is stored at the memory address of variable a
 	b = a;		// b will take the value and not the address
@@ -260,7 +263,7 @@ int main(void) {
 	printf("ptr's value: %2d, ptr's address: %p\n", *ptr, ptr); // you will get the same as above, notice that you have to dereference the pointer with * to get the value, and using the pointer alone (ptr) will give you the memory address.
 	printf("  b's value: %2d,   b's address: %p\n", b, &b);
 	//printf("Size of ptr: %zu\n", sizeof(ptr)); // size of ptr in bytes, 8 on my system.
-	return 0;
+	return (0);
 }
 ```
 
@@ -277,6 +280,14 @@ ptr's value:  1, ptr's address: 0x7ffd99493000
 **NB: On the second printf you will get the value that you got for `a`, notice that you have to dereference the pointer with * to get the value, and using the pointer alone (ptr) will give you the memory address.**
 
 *[See this example with int a = 9](https://stackoverflow.com/questions/12791864/c-program-to-check-little-vs-big-endian/12792301#12792301):*
+
+---
+
+<p align="right">
+  <b><a href="#summary">⏫ Back To Top</a><b>
+</p>
+
+---
 
 #### The compilation
 
@@ -331,8 +342,9 @@ Little endian means that the value is stored in memory from left to right, big e
 
 *[See this example with int a = 9](https://stackoverflow.com/questions/12791864/c-program-to-check-little-vs-big-endian/12792301#12792301):*
 
+---
 
-#### little endian: 
+#### little endian :
 
        higher memory
           ----->
@@ -358,6 +370,14 @@ int x = 9;
 
 if (*(char *)&x == 0x09) // we cast x as a byte to get its very first byte, it will return true (meaning little endian) if the first byte is equal to 9.
 ```
+
+---
+
+<p align="right">
+  <b><a href="#summary">⏫ Back To Top</a><b>
+</p>
+
+---
 
 ### ft_putchar
 
