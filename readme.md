@@ -73,7 +73,7 @@ There are no teachers but a pedagogic team that ensure that students do not harm
 
 </p>
 <p align="center">
-<img src="https://www.iamsterdam.com/media/locations-ndtrc/museums/rijksmuseum-library-cc-bynd-20-hans-splinter-via-flickr.jpg?w=977" width="800">
+<img src="https://img.atlasobscura.com/IlHPWmDNPHFfiKhpDeqy1hHC2i8x5Iq1m7HBj3KJRLU/rt:fit/w:1200/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iZjdj/OWVhMzQyOTU3OTNm/YWZfbGlicmFyeS5q/cGc.jpg" width="800">
 </p>
 
 ---
